@@ -1,0 +1,1201 @@
+ID_Cliente,Genero,Idoso,Tem_Parceiro,Tem_Dependentes,Meses_Contrato,Servico_Telefonia,Servico_Internet,Seguranca_Online,Suporte_Tecnico,Tipo_Contrato,Fatura_Digital,Forma_Pagamento,Valor_Mensal,Valor_Total,Chamadas_Suporte,Cancelou_Plano
+CLI-0001,Feminino,1,Não,Não,5,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,61.33,297.54,1,Não
+CLI-0002,Masculino,0,Não,Não,24,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Transferência Automática,78.23,1890.42,0,Não
+CLI-0003,Masculino,0,Não,Não,30,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,52.93,1595.22,2,Não
+CLI-0004,Feminino,0,Sim,Sim,27,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Bancário,104.05,2818.79,1,Sim
+CLI-0005,Masculino,0,Sim,Não,27,Sim,Fibra Óptica,Sim,Sim,2 Anos,Não,Cartão de Crédito,93.16,2533.61,0,Não
+CLI-0006,Masculino,1,Sim,Sim,26,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,74.96,1943.11,3,Sim
+CLI-0007,Feminino,0,Não,Não,34,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,27.94,969.09,2,Sim
+CLI-0008,Masculino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,74.58,1056.98,3,Sim
+CLI-0009,Feminino,1,Sim,Não,43,Sim,DSL,Não,Sim,Anual,Não,Boleto Bancário,60.44,2618.48,0,Não
+CLI-0010,Feminino,1,Não,Não,72,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,62.48,4504.39,4,Não
+CLI-0011,Feminino,0,Não,Não,65,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,26.77,1737.49,1,Não
+CLI-0012,Feminino,1,Sim,Sim,45,Não,Fibra Óptica,Não,Sim,2 Anos,Sim,Transferência Automática,76.98,3482.17,0,Não
+CLI-0013,Masculino,0,Sim,Não,14,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,41.48,582.8,0,Sim
+CLI-0014,Masculino,1,Sim,Sim,30,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,32.84,978.14,5,Não
+CLI-0015,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,63.98,1804.96,2,Não
+CLI-0016,Masculino,1,Não,Não,2,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,63.76,132.61,0,Não
+CLI-0017,Feminino,1,Sim,Não,4,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,56.23,234.64,4,Sim
+CLI-0018,Masculino,0,Não,Não,21,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Eletrônico,81.87,1739.22,1,Sim
+CLI-0019,Feminino,0,Sim,Não,6,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,67.11,408.53,4,Sim
+CLI-0020,Feminino,0,Sim,Não,10,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,58.96,594.26,0,Sim
+CLI-0021,Masculino,1,Não,Não,50,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,68.41,3413.86,1,Não
+CLI-0022,Feminino,0,Sim,Sim,26,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Bancário,101.7,2660.72,4,Sim
+CLI-0023,Feminino,0,Sim,Não,24,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,51.03,1222.17,1,Sim
+CLI-0024,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Cartão de Crédito,94.92,2578.77,1,Não
+CLI-0025,Masculino,0,Sim,Não,19,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,85.93,1632.08,1,Sim
+CLI-0026,Masculino,1,Não,Não,30,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,42.96,1291.74,1,Não
+CLI-0027,Feminino,0,Não,Não,22,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Bancário,96.31,2137.03,1,Sim
+CLI-0028,Feminino,0,Sim,Sim,30,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,88.52,2669.48,0,Não
+CLI-0029,Masculino,1,Sim,Não,7,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,71.53,504.37,2,Sim
+CLI-0030,Masculino,0,Sim,Não,30,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Eletrônico,66.97,2015.82,1,Não
+CLI-0031,Masculino,0,Não,Não,42,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Transferência Automática,26.69,1115.75,0,Não
+CLI-0032,Masculino,0,Não,Não,27,Sim,DSL,Sim,Não,Anual,Sim,Transferência Automática,68.4,1839.22,2,Não
+CLI-0033,Feminino,0,Não,Não,14,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,25.84,374.85,3,Não
+CLI-0034,Masculino,0,Não,Não,13,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,26.29,354.2,1,Sim
+CLI-0035,Masculino,1,Não,Não,35,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,33.79,1202.07,1,Não
+CLI-0036,Feminino,0,Sim,Não,9,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,80.69,738.77,3,Sim
+CLI-0037,Feminino,0,Não,Não,3,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,42.99,119.58,1,Sim
+CLI-0038,Feminino,0,Não,Não,20,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,30.78,628.93,0,Sim
+CLI-0039,Masculino,0,Não,Não,23,Sim,DSL,Não,Sim,Mensal,Não,Boleto Eletrônico,65.46,1504.63,2,Não
+CLI-0040,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Anual,Não,Transferência Automática,61.58,880.94,2,Não
+CLI-0041,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,61.3,1671.55,1,Não
+CLI-0042,Masculino,1,Não,Não,7,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,88.2,624.07,0,Sim
+CLI-0043,Masculino,0,Sim,Não,41,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Cartão de Crédito,78.65,3234.57,1,Não
+CLI-0044,Masculino,0,Não,Não,9,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,69.26,634.04,0,Sim
+CLI-0045,Masculino,0,Sim,Sim,10,Não,DSL,Sim,Não,Mensal,Sim,Transferência Automática,63.3,643.92,0,Sim
+CLI-0046,Masculino,0,Não,Não,2,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.71,35.38,0,Não
+CLI-0047,Masculino,1,Sim,Sim,48,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,53.63,2573.16,0,Não
+CLI-0048,Feminino,0,Sim,Não,3,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Boleto Bancário,96.76,298.09,0,Sim
+CLI-0049,Masculino,1,Sim,Não,50,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Bancário,22.97,1141.94,4,Não
+CLI-0050,Feminino,1,Não,Não,46,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,81.04,3726.01,0,Não
+CLI-0051,Masculino,0,Não,Não,8,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,28.63,247.56,1,Não
+CLI-0052,Feminino,0,Não,Não,35,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,67.05,2349.0,3,Sim
+CLI-0053,Masculino,0,Não,Não,59,Não,Fibra Óptica,Sim,Sim,2 Anos,Não,Boleto Eletrônico,101.59,6009.76,2,Não
+CLI-0054,Masculino,1,Não,Não,41,Sim,DSL,Sim,Não,Anual,Não,Boleto Eletrônico,68.92,2828.86,0,Não
+CLI-0055,Feminino,0,Não,Não,45,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Cartão de Crédito,89.21,4023.88,1,Não
+CLI-0056,Masculino,0,Sim,Sim,7,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,44.14,322.68,3,Sim
+CLI-0057,Masculino,0,Não,Não,52,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,66.83,3474.81,1,Não
+CLI-0058,Masculino,1,Não,Não,34,Sim,DSL,Não,Não,Anual,Sim,Cartão de Crédito,47.43,1603.73,3,Não
+CLI-0059,Masculino,1,Não,Não,5,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,69.54,347.86,3,Sim
+CLI-0060,Masculino,0,Não,Não,26,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Boleto Eletrônico,78.41,2031.37,1,Não
+CLI-0061,Feminino,1,Sim,Sim,5,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,77.63,396.43,1,Não
+CLI-0062,Feminino,0,Não,Não,22,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,33.52,747.77,4,Não
+CLI-0063,Masculino,0,Não,Não,39,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,63.56,2486.0,0,Não
+CLI-0064,Masculino,0,Sim,Não,28,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,77.85,2177.32,1,Não
+CLI-0065,Feminino,0,Não,Não,12,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,77.63,925.52,1,Não
+CLI-0066,Feminino,0,Não,Não,42,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Transferência Automática,77.11,3257.62,5,Não
+CLI-0067,Masculino,1,Não,Não,18,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,80.72,1462.12,1,Não
+CLI-0068,Masculino,0,Sim,Não,39,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,89.19,3477.54,0,Não
+CLI-0069,Masculino,0,Não,Não,19,Sim,DSL,Não,Não,Anual,Não,Boleto Bancário,54.09,1026.1,1,Não
+CLI-0070,Masculino,1,Não,Não,21,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,102.72,2160.76,0,Sim
+CLI-0071,Feminino,0,Sim,Sim,23,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,23.49,553.5,0,Não
+CLI-0072,Feminino,0,Sim,Sim,32,Não,DSL,Sim,Não,2 Anos,Não,Boleto Eletrônico,57.61,1835.09,2,Não
+CLI-0073,Masculino,0,Sim,Sim,20,Não,DSL,Não,Não,Mensal,Sim,Transferência Automática,46.87,956.32,3,Sim
+CLI-0074,Feminino,0,Não,Não,3,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,83.78,262.7,1,Sim
+CLI-0075,Feminino,0,Sim,Não,45,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,80.08,3607.2,0,Não
+CLI-0076,Masculino,0,Sim,Não,3,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,87.18,268.23,2,Sim
+CLI-0077,Masculino,0,Sim,Não,32,Sim,DSL,Sim,Não,Anual,Sim,Boleto Eletrônico,67.71,2167.22,2,Não
+CLI-0078,Masculino,0,Sim,Não,27,Não,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,65.27,1757.73,0,Não
+CLI-0079,Feminino,1,Sim,Sim,6,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,41.27,239.2,2,Sim
+CLI-0080,Masculino,0,Não,Não,7,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Eletrônico,85.18,600.86,0,Não
+CLI-0081,Feminino,1,Não,Não,32,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Bancário,81.46,2600.6,1,Não
+CLI-0082,Masculino,1,Sim,Sim,3,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,46.27,132.27,0,Não
+CLI-0083,Masculino,0,Não,Não,28,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,88.06,2478.05,0,Não
+CLI-0084,Feminino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,92.6,2494.79,0,Não
+CLI-0085,Masculino,0,Não,Não,46,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,24.85,1162.23,0,Não
+CLI-0086,Masculino,0,Sim,Sim,15,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,87.96,1335.06,1,Não
+CLI-0087,Feminino,0,Sim,Sim,5,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,54.74,266.23,0,Sim
+CLI-0088,Masculino,0,Sim,Sim,48,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,69.71,3338.06,0,Não
+CLI-0089,Feminino,0,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,64.64,1358.74,2,Não
+CLI-0090,Feminino,0,Não,Não,1,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,82.29,79.09,0,Sim
+CLI-0091,Feminino,0,Sim,Não,6,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,61.57,371.75,5,Sim
+CLI-0092,Masculino,0,Sim,Sim,54,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Transferência Automática,66.61,3610.02,5,Não
+CLI-0093,Feminino,0,Sim,Não,59,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,56.26,3314.15,3,Sim
+CLI-0094,Feminino,0,Não,Não,50,Não,DSL,Sim,Não,2 Anos,Não,Cartão de Crédito,60.62,3021.85,2,Não
+CLI-0095,Masculino,0,Não,Não,18,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,40.29,721.69,0,Não
+CLI-0096,Masculino,1,Sim,Sim,39,Não,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Bancário,27.5,1078.58,2,Não
+CLI-0097,Feminino,0,Sim,Não,22,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.02,468.22,1,Não
+CLI-0098,Masculino,0,Não,Não,32,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,71.57,2302.3,1,Sim
+CLI-0099,Feminino,0,Não,Não,54,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,20.95,1144.59,0,Não
+CLI-0100,Feminino,0,Não,Não,27,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Cartão de Crédito,80.35,2182.88,0,Não
+CLI-0101,Masculino,0,Não,Não,48,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,71.96,3452.08,0,Não
+CLI-0102,Feminino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,70.35,774.4,1,Sim
+CLI-0103,Feminino,1,Não,Não,26,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,85.17,2217.57,2,Sim
+CLI-0104,Masculino,0,Sim,Não,33,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,45.97,1526.5,0,Sim
+CLI-0105,Masculino,0,Sim,Sim,15,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,43.0,639.07,3,Sim
+CLI-0106,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Cartão de Crédito,100.64,1419.97,1,Sim
+CLI-0107,Feminino,0,Sim,Não,18,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,68.26,1220.65,1,Não
+CLI-0108,Feminino,1,Não,Não,38,Sim,DSL,Sim,Não,Anual,Não,Boleto Bancário,63.27,2411.89,1,Não
+CLI-0109,Feminino,0,Sim,Sim,30,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,72.69,2178.22,0,Sim
+CLI-0110,Feminino,0,Sim,Não,20,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,48.45,983.76,4,Não
+CLI-0111,Masculino,0,Não,Não,11,Sim,DSL,Sim,Não,Anual,Não,Cartão de Crédito,62.24,698.78,1,Não
+CLI-0112,Feminino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,72.91,821.27,1,Sim
+CLI-0113,Feminino,0,Não,Não,5,Não,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,63.72,334.56,4,Sim
+CLI-0114,Feminino,0,Não,Não,53,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Cartão de Crédito,82.58,4395.74,0,Não
+CLI-0115,Masculino,0,Sim,Não,29,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,75.77,2204.18,0,Não
+CLI-0116,Masculino,0,Sim,Sim,12,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,62.99,761.15,0,Não
+CLI-0117,Masculino,0,Sim,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,72.64,806.85,2,Sim
+CLI-0118,Feminino,0,Sim,Não,50,Não,DSL,Não,Não,Anual,Não,Transferência Automática,51.64,2589.33,0,Não
+CLI-0119,Masculino,1,Sim,Sim,31,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Transferência Automática,63.06,1959.91,3,Não
+CLI-0120,Feminino,0,Sim,Não,54,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Cartão de Crédito,80.13,4327.65,1,Não
+CLI-0121,Feminino,0,Não,Não,10,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,47.2,478.81,0,Sim
+CLI-0122,Masculino,0,Não,Não,33,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,66.64,2196.81,3,Sim
+CLI-0123,Masculino,1,Sim,Sim,43,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Bancário,82.09,3540.31,1,Não
+CLI-0124,Masculino,0,Sim,Não,10,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.34,220.62,4,Sim
+CLI-0125,Feminino,0,Sim,Não,16,Sim,DSL,Não,Sim,Mensal,Não,Cartão de Crédito,55.56,887.91,0,Não
+CLI-0126,Masculino,0,Sim,Não,7,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,70.78,485.88,1,Não
+CLI-0127,Feminino,0,Não,Não,56,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Transferência Automática,82.16,4619.03,0,Não
+CLI-0128,Masculino,0,Sim,Sim,8,Não,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,82.54,677.17,2,Sim
+CLI-0129,Masculino,0,Sim,Sim,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,25.6,139.06,2,Não
+CLI-0130,Feminino,0,Não,Não,19,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,33.54,633.32,0,Não
+CLI-0131,Feminino,0,Não,Não,17,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,83.46,1425.58,2,Sim
+CLI-0132,Feminino,0,Sim,Sim,3,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,67.08,199.85,2,Não
+CLI-0133,Masculino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,68.09,2052.31,6,Sim
+CLI-0134,Feminino,0,Sim,Não,29,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,43.44,1263.58,4,Não
+CLI-0135,Feminino,1,Não,Não,11,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,70.08,787.05,1,Sim
+CLI-0136,Feminino,0,Sim,Sim,38,Sim,DSL,Sim,Não,2 Anos,Sim,Boleto Bancário,65.09,2473.04,6,Não
+CLI-0137,Masculino,0,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Anual,Não,Cartão de Crédito,74.12,1566.66,2,Não
+CLI-0138,Masculino,0,Não,Não,8,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,48.44,406.55,1,Sim
+CLI-0139,Masculino,0,Não,Não,29,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Eletrônico,20.77,603.65,3,Sim
+CLI-0140,Feminino,0,Não,Não,30,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,34.43,1026.42,4,Não
+CLI-0141,Feminino,0,Sim,Não,34,Sim,DSL,Sim,Não,Anual,Não,Transferência Automática,68.24,2324.14,2,Não
+CLI-0142,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,83.69,2345.85,0,Sim
+CLI-0143,Feminino,0,Não,Não,27,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,50.99,1377.3,0,Não
+CLI-0144,Feminino,0,Sim,Não,10,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,23.47,245.92,1,Não
+CLI-0145,Masculino,0,Sim,Sim,10,Não,DSL,Não,Sim,Anual,Sim,Boleto Bancário,62.53,636.24,0,Sim
+CLI-0146,Feminino,0,Não,Não,41,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,63.65,2620.57,2,Não
+CLI-0147,Feminino,1,Não,Não,16,Não,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,81.51,1317.69,3,Sim
+CLI-0148,Feminino,0,Não,Não,30,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,33.49,1011.61,0,Sim
+CLI-0149,Feminino,0,Não,Não,43,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,73.45,3158.3,2,Não
+CLI-0150,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,68.93,984.09,2,Sim
+CLI-0151,Feminino,0,Não,Não,22,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,78.7,1723.61,2,Não
+CLI-0152,Masculino,0,Sim,Sim,52,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,96.73,5036.6,0,Não
+CLI-0153,Masculino,0,Sim,Sim,3,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,62.82,199.02,0,Não
+CLI-0154,Feminino,0,Não,Não,16,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,67.44,1087.54,0,Não
+CLI-0155,Masculino,0,Não,Não,45,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,68.92,3100.41,1,Não
+CLI-0156,Masculino,0,Não,Não,50,Sim,DSL,Sim,Não,Anual,Sim,Boleto Bancário,67.25,3364.29,1,Não
+CLI-0157,Feminino,0,Não,Não,37,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,71.93,2663.68,0,Não
+CLI-0158,Masculino,0,Sim,Sim,47,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,48.15,2276.77,0,Não
+CLI-0159,Masculino,0,Sim,Não,35,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,76.48,2673.46,1,Não
+CLI-0160,Feminino,0,Sim,Sim,30,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,79.68,2394.06,0,Sim
+CLI-0161,Masculino,0,Não,Não,23,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,29.72,693.87,1,Não
+CLI-0162,Masculino,0,Não,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,71.06,940.27,1,Não
+CLI-0163,Feminino,0,Sim,Não,44,Sim,Fibra Óptica,Não,Sim,Anual,Não,Transferência Automática,87.94,3875.19,1,Não
+CLI-0164,Masculino,0,Não,Não,29,Sim,DSL,Não,Sim,Anual,Sim,Boleto Bancário,58.58,1692.33,1,Não
+CLI-0165,Feminino,0,Não,Não,21,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,33.96,708.36,0,Não
+CLI-0166,Masculino,0,Não,Não,55,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,34.46,1900.46,1,Não
+CLI-0167,Masculino,0,Sim,Não,2,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,66.14,145.26,1,Sim
+CLI-0168,Masculino,0,Sim,Não,7,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,64.47,471.27,3,Sim
+CLI-0169,Feminino,0,Sim,Sim,32,Sim,DSL,Não,Não,Anual,Não,Cartão de Crédito,51.77,1671.05,1,Não
+CLI-0170,Feminino,0,Não,Não,9,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,42.03,390.77,6,Sim
+CLI-0171,Feminino,0,Sim,Sim,25,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,44.03,1103.18,1,Não
+CLI-0172,Masculino,0,Não,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,21.4,40.56,3,Não
+CLI-0173,Masculino,0,Não,Não,55,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,25.07,1386.19,2,Não
+CLI-0174,Feminino,1,Não,Não,30,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,78.03,2351.56,0,Não
+CLI-0175,Masculino,1,Não,Não,12,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,65.89,803.34,2,Sim
+CLI-0176,Masculino,1,Sim,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,34.82,37.49,0,Sim
+CLI-0177,Feminino,1,Não,Não,32,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Eletrônico,33.12,1069.09,1,Sim
+CLI-0178,Feminino,0,Sim,Não,14,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,77.1,1073.09,5,Sim
+CLI-0179,Feminino,0,Sim,Sim,48,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Bancário,20.4,994.61,1,Não
+CLI-0180,Masculino,0,Sim,Não,25,Sim,Fibra Óptica,Não,Não,Anual,Não,Cartão de Crédito,67.92,1717.33,0,Não
+CLI-0181,Masculino,0,Sim,Não,28,Não,Fibra Óptica,Sim,Sim,2 Anos,Sim,Transferência Automática,90.91,2559.16,1,Não
+CLI-0182,Feminino,0,Não,Não,30,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,28.05,843.22,0,Não
+CLI-0183,Feminino,1,Sim,Não,20,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,61.79,1247.04,1,Sim
+CLI-0184,Masculino,0,Sim,Não,70,Sim,DSL,Sim,Não,2 Anos,Não,Boleto Eletrônico,59.08,4127.52,1,Não
+CLI-0185,Feminino,0,Sim,Sim,4,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,55.04,235.92,1,Sim
+CLI-0186,Feminino,0,Sim,Não,71,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,79.8,5680.58,1,Não
+CLI-0187,Feminino,0,Sim,Não,15,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,76.85,1153.82,2,Sim
+CLI-0188,Masculino,0,Não,Não,36,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Eletrônico,68.99,2474.36,5,Sim
+CLI-0189,Masculino,0,Não,Não,17,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,62.14,1054.77,3,Sim
+CLI-0190,Masculino,0,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,74.46,1560.76,4,Sim
+CLI-0191,Masculino,0,Não,Não,7,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,76.74,536.6,5,Sim
+CLI-0192,Masculino,0,Sim,Sim,43,Sim,DSL,Sim,Não,2 Anos,Sim,Cartão de Crédito,59.92,2569.3,1,Não
+CLI-0193,Masculino,0,Sim,Sim,15,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Bancário,81.91,1222.29,0,Não
+CLI-0194,Masculino,0,Sim,Não,27,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,22.97,629.57,4,Não
+CLI-0195,Masculino,1,Não,Não,30,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,25.92,768.48,1,Não
+CLI-0196,Masculino,0,Sim,Sim,25,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,41.32,1034.49,1,Não
+CLI-0197,Feminino,0,Não,Não,26,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,27.54,717.69,1,Sim
+CLI-0198,Masculino,1,Não,Não,25,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,93.62,2346.51,2,Não
+CLI-0199,Masculino,0,Sim,Sim,32,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,68.45,2197.29,1,Sim
+CLI-0200,Feminino,1,Sim,Não,16,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,23.02,362.23,0,Sim
+CLI-0201,Feminino,0,Não,Não,47,Sim,DSL,Não,Não,2 Anos,Não,Transferência Automática,44.84,2126.76,2,Não
+CLI-0202,Masculino,0,Não,Não,19,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,77.67,1465.78,3,Não
+CLI-0203,Feminino,0,Não,Não,63,Sim,DSL,Não,Sim,2 Anos,Não,Boleto Bancário,66.18,4166.48,1,Não
+CLI-0204,Masculino,0,Não,Não,23,Não,Fibra Óptica,Sim,Sim,Mensal,Não,Transferência Automática,95.79,2215.15,1,Sim
+CLI-0205,Masculino,1,Não,Não,46,Sim,DSL,Sim,Sim,Anual,Sim,Boleto Eletrônico,82.69,3802.59,0,Não
+CLI-0206,Masculino,0,Sim,Não,29,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Bancário,33.4,979.74,1,Não
+CLI-0207,Feminino,1,Sim,Não,18,Sim,DSL,Sim,Sim,Mensal,Sim,Transferência Automática,73.56,1315.57,0,Não
+CLI-0208,Masculino,1,Não,Não,1,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,41.73,55.28,0,Sim
+CLI-0209,Feminino,0,Não,Não,15,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,83.46,1246.43,0,Sim
+CLI-0210,Masculino,0,Sim,Não,57,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,53.22,3037.83,1,Não
+CLI-0211,Feminino,1,Não,Não,6,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,21.89,134.04,0,Não
+CLI-0212,Feminino,0,Não,Não,24,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,64.89,1555.65,2,Sim
+CLI-0213,Masculino,1,Sim,Sim,16,Sim,DSL,Sim,Sim,Anual,Sim,Transferência Automática,78.03,1248.8,2,Não
+CLI-0214,Masculino,1,Não,Não,20,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,59.97,1196.53,3,Sim
+CLI-0215,Masculino,0,Não,Não,67,Não,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,22.02,1494.57,0,Não
+CLI-0216,Feminino,0,Sim,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,32.32,522.58,2,Não
+CLI-0217,Feminino,0,Sim,Não,15,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,81.96,1231.31,0,Sim
+CLI-0218,Masculino,0,Não,Não,32,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,23.88,779.09,1,Sim
+CLI-0219,Feminino,0,Sim,Não,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,34.51,493.61,1,Não
+CLI-0220,Feminino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Transferência Automática,97.0,2629.32,1,Sim
+CLI-0221,Masculino,0,Não,Não,4,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,79.15,326.28,0,Sim
+CLI-0222,Feminino,0,Não,Não,18,Sim,DSL,Não,Sim,Anual,Sim,Boleto Bancário,61.28,1104.69,0,Não
+CLI-0223,Masculino,0,Não,Não,28,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,62.06,1749.91,4,Não
+CLI-0224,Feminino,0,Sim,Não,26,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,61.77,1597.63,1,Sim
+CLI-0225,Feminino,0,Não,Não,14,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,22.06,304.85,0,Não
+CLI-0226,Feminino,0,Não,Não,6,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,86.6,526.89,0,Sim
+CLI-0227,Masculino,0,Não,Não,2,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,51.35,108.63,1,Sim
+CLI-0228,Masculino,0,Sim,Sim,20,Não,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,67.8,1361.72,0,Não
+CLI-0229,Masculino,0,Sim,Não,49,Não,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Eletrônico,75.33,3696.31,1,Não
+CLI-0230,Feminino,0,Sim,Não,11,Não,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,78.79,877.75,0,Não
+CLI-0231,Masculino,0,Sim,Sim,56,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Bancário,92.98,5202.87,1,Não
+CLI-0232,Feminino,1,Não,Não,68,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Boleto Bancário,88.6,6039.86,4,Não
+CLI-0233,Feminino,0,Sim,Não,39,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Cartão de Crédito,77.62,3018.36,1,Não
+CLI-0234,Feminino,1,Sim,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,24.02,300.23,0,Não
+CLI-0235,Masculino,0,Não,Não,40,Sim,DSL,Não,Sim,Anual,Não,Boleto Bancário,65.44,2609.36,0,Não
+CLI-0236,Masculino,0,Não,Não,13,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,50.91,678.58,0,Sim
+CLI-0237,Feminino,1,Não,Não,28,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,54.67,1540.86,1,Não
+CLI-0238,Masculino,0,Não,Não,27,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,20.82,571.44,3,Não
+CLI-0239,Feminino,0,Não,Não,9,Não,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,63.52,575.45,0,Sim
+CLI-0240,Masculino,1,Não,Não,11,Sim,Fibra Óptica,Não,Sim,Anual,Não,Cartão de Crédito,76.36,848.09,3,Sim
+CLI-0241,Masculino,0,Não,Não,38,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,70.75,2689.4,2,Sim
+CLI-0242,Masculino,0,Não,Não,12,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Boleto Bancário,100.75,1220.65,0,Não
+CLI-0243,Masculino,0,Sim,Não,14,Não,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,68.38,961.04,5,Sim
+CLI-0244,Feminino,0,Não,Não,54,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,42.6,2314.86,1,Não
+CLI-0245,Feminino,0,Não,Não,52,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,67.68,3534.65,2,Não
+CLI-0246,Feminino,0,Não,Não,18,Sim,DSL,Não,Não,Anual,Sim,Cartão de Crédito,50.41,907.05,1,Não
+CLI-0247,Masculino,0,Não,Não,51,Sim,DSL,Sim,Sim,2 Anos,Não,Boleto Bancário,80.05,4078.55,6,Não
+CLI-0248,Feminino,0,Não,Não,18,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,21.54,403.76,2,Não
+CLI-0249,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,64.69,847.53,0,Não
+CLI-0250,Masculino,0,Não,Não,44,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Bancário,81.73,3615.62,2,Não
+CLI-0251,Feminino,0,Não,Não,19,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,60.6,1169.26,1,Sim
+CLI-0252,Masculino,1,Não,Não,6,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,61.05,366.78,0,Sim
+CLI-0253,Masculino,0,Sim,Sim,8,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,50.24,401.55,1,Sim
+CLI-0254,Masculino,1,Não,Não,17,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,82.71,1424.52,1,Sim
+CLI-0255,Feminino,0,Não,Não,37,Sim,DSL,Não,Não,2 Anos,Não,Boleto Bancário,49.7,1857.09,0,Não
+CLI-0256,Feminino,1,Sim,Sim,3,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,84.45,256.34,1,Sim
+CLI-0257,Feminino,0,Sim,Não,30,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,64.22,1944.4,1,Sim
+CLI-0258,Feminino,0,Não,Não,33,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Eletrônico,34.48,1153.85,1,Não
+CLI-0259,Feminino,1,Não,Não,3,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,46.19,147.95,0,Sim
+CLI-0260,Masculino,0,Sim,Não,13,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,34.91,457.67,2,Não
+CLI-0261,Feminino,0,Não,Não,46,Sim,DSL,Sim,Não,2 Anos,Sim,Cartão de Crédito,68.5,3150.53,2,Não
+CLI-0262,Masculino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,72.6,792.63,1,Sim
+CLI-0263,Masculino,0,Sim,Sim,27,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,88.3,2376.39,3,Não
+CLI-0264,Masculino,0,Sim,Não,44,Sim,DSL,Não,Sim,Anual,Sim,Cartão de Crédito,60.89,2695.9,0,Não
+CLI-0265,Feminino,0,Sim,Não,63,Sim,DSL,Sim,Sim,2 Anos,Não,Boleto Bancário,78.5,4952.47,2,Não
+CLI-0266,Masculino,1,Não,Não,9,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,80.42,727.87,0,Sim
+CLI-0267,Feminino,0,Não,Não,40,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,48.82,1969.75,1,Não
+CLI-0268,Masculino,0,Não,Não,16,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,63.45,1020.64,0,Sim
+CLI-0269,Feminino,0,Não,Não,70,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Bancário,49.71,3482.03,1,Não
+CLI-0270,Feminino,0,Sim,Sim,6,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,73.18,450.92,0,Sim
+CLI-0271,Masculino,0,Sim,Sim,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,22.73,123.44,4,Sim
+CLI-0272,Feminino,0,Não,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,27.57,30.16,0,Não
+CLI-0273,Feminino,0,Sim,Sim,48,Sim,Fibra Óptica,Não,Não,Anual,Não,Transferência Automática,66.47,3193.18,0,Não
+CLI-0274,Masculino,0,Sim,Sim,25,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,24.25,622.55,0,Não
+CLI-0275,Feminino,0,Sim,Não,7,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,84.77,591.0,1,Não
+CLI-0276,Masculino,0,Não,Não,45,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,79.6,3582.33,3,Não
+CLI-0277,Feminino,0,Sim,Sim,26,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,42.41,1121.6,3,Sim
+CLI-0278,Masculino,1,Não,Não,3,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,49.84,148.11,4,Sim
+CLI-0279,Masculino,0,Sim,Não,57,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,63.48,3613.44,2,Não
+CLI-0280,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,88.79,1160.76,0,Não
+CLI-0281,Feminino,0,Sim,Sim,1,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Cartão de Crédito,94.41,112.82,3,Sim
+CLI-0282,Masculino,0,Não,Não,25,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,26.88,675.82,1,Não
+CLI-0283,Masculino,0,Sim,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,63.95,702.07,0,Não
+CLI-0284,Masculino,0,Sim,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,27.48,655.51,0,Sim
+CLI-0285,Feminino,0,Não,Não,4,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,60.1,256.11,1,Sim
+CLI-0286,Masculino,0,Não,Não,25,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,68.11,1707.82,1,Sim
+CLI-0287,Masculino,0,Sim,Sim,19,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Cartão de Crédito,78.94,1497.94,1,Não
+CLI-0288,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,78.43,1012.59,1,Não
+CLI-0289,Feminino,1,Sim,Sim,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,32.74,463.87,0,Não
+CLI-0290,Feminino,0,Sim,Sim,54,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Cartão de Crédito,80.4,4348.32,0,Não
+CLI-0291,Feminino,0,Sim,Não,11,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,45.72,501.52,3,Sim
+CLI-0292,Masculino,0,Não,Não,28,Não,Fibra Óptica,Sim,Não,2 Anos,Sim,Transferência Automática,85.66,2406.64,2,Não
+CLI-0293,Masculino,0,Sim,Não,8,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,30.51,236.48,0,Não
+CLI-0294,Masculino,0,Sim,Não,3,Sim,DSL,Sim,Não,Mensal,Não,Transferência Automática,60.85,179.43,1,Sim
+CLI-0295,Feminino,1,Não,Não,44,Sim,DSL,Não,Não,2 Anos,Não,Boleto Bancário,48.23,2116.17,1,Não
+CLI-0296,Masculino,0,Não,Não,54,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,26.63,1438.99,0,Não
+CLI-0297,Feminino,0,Não,Não,23,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,27.16,614.95,1,Não
+CLI-0298,Masculino,0,Não,Não,6,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,56.19,345.9,0,Não
+CLI-0299,Masculino,0,Sim,Sim,21,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,44.81,935.57,0,Sim
+CLI-0300,Masculino,1,Não,Não,24,Não,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,86.79,2087.91,0,Não
+CLI-0301,Feminino,1,Não,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,23.75,381.45,1,Não
+CLI-0302,Feminino,0,Sim,Sim,16,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,27.09,443.88,0,Não
+CLI-0303,Feminino,0,Não,Não,29,Não,DSL,Não,Sim,Mensal,Não,Boleto Eletrônico,61.51,1774.24,1,Sim
+CLI-0304,Feminino,0,Não,Não,19,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Boleto Eletrônico,99.28,1904.25,0,Não
+CLI-0305,Feminino,1,Sim,Sim,32,Sim,Fibra Óptica,Sim,Não,Anual,Não,Transferência Automática,80.37,2565.88,2,Não
+CLI-0306,Masculino,0,Sim,Não,15,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,33.72,512.44,1,Não
+CLI-0307,Masculino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,60.95,689.46,1,Não
+CLI-0308,Feminino,0,Não,Não,11,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,56.95,642.65,0,Sim
+CLI-0309,Masculino,0,Não,Não,8,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,82.37,675.65,1,Não
+CLI-0310,Masculino,0,Sim,Não,2,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.17,38.82,2,Sim
+CLI-0311,Feminino,0,Sim,Não,59,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Boleto Eletrônico,80.37,4745.59,0,Sim
+CLI-0312,Masculino,0,Sim,Não,32,Sim,DSL,Não,Não,Anual,Não,Cartão de Crédito,46.19,1487.08,1,Não
+CLI-0313,Feminino,0,Não,Não,15,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,68.94,1039.63,0,Não
+CLI-0314,Feminino,0,Sim,Não,41,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,41.41,1701.62,1,Não
+CLI-0315,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,82.24,1073.77,1,Sim
+CLI-0316,Masculino,1,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,63.4,1848.18,1,Sim
+CLI-0317,Feminino,0,Sim,Sim,30,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,80.89,2430.07,0,Sim
+CLI-0318,Masculino,1,Não,Não,19,Sim,DSL,Sim,Não,Mensal,Não,Transferência Automática,61.52,1179.82,1,Não
+CLI-0319,Feminino,0,Sim,Sim,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,21.34,308.91,0,Não
+CLI-0320,Feminino,0,Sim,Não,38,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Eletrônico,85.28,3235.32,0,Sim
+CLI-0321,Feminino,0,Não,Não,23,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,71.1,1631.66,1,Não
+CLI-0322,Feminino,0,Sim,Sim,57,Não,Fibra Óptica,Sim,Não,2 Anos,Não,Boleto Eletrônico,84.27,4794.98,0,Não
+CLI-0323,Masculino,0,Sim,Sim,48,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Bancário,79.73,3843.04,0,Não
+CLI-0324,Feminino,1,Não,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,64.53,858.77,3,Sim
+CLI-0325,Masculino,0,Sim,Não,38,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Bancário,29.85,1126.93,1,Não
+CLI-0326,Masculino,0,Não,Não,5,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,72.94,363.97,1,Não
+CLI-0327,Feminino,0,Sim,Sim,17,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,22.18,367.94,5,Sim
+CLI-0328,Masculino,1,Sim,Sim,25,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,48.95,1220.68,2,Sim
+CLI-0329,Masculino,0,Não,Não,13,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,101.47,1309.56,0,Não
+CLI-0330,Feminino,0,Sim,Sim,52,Sim,DSL,Sim,Não,2 Anos,Sim,Transferência Automática,58.7,3054.55,2,Não
+CLI-0331,Feminino,0,Não,Não,29,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,27.78,807.49,1,Não
+CLI-0332,Feminino,0,Não,Não,10,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Transferência Automática,103.79,1048.6,3,Sim
+CLI-0333,Feminino,0,Sim,Sim,1,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,61.82,59.32,2,Sim
+CLI-0334,Feminino,0,Não,Não,23,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,45.68,1052.06,1,Não
+CLI-0335,Feminino,0,Sim,Sim,36,Sim,DSL,Não,Sim,Anual,Não,Boleto Eletrônico,57.71,2094.52,1,Não
+CLI-0336,Masculino,0,Não,Não,1,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,61.81,65.07,0,Sim
+CLI-0337,Feminino,1,Sim,Sim,5,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,68.81,335.52,0,Sim
+CLI-0338,Feminino,0,Não,Não,29,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,71.38,2085.32,0,Não
+CLI-0339,Masculino,0,Não,Não,23,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,67.93,1555.02,1,Não
+CLI-0340,Masculino,0,Não,Não,63,Sim,DSL,Não,Não,2 Anos,Não,Boleto Bancário,42.7,2698.38,0,Sim
+CLI-0341,Feminino,0,Sim,Não,50,Não,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Eletrônico,84.61,4241.2,0,Não
+CLI-0342,Masculino,0,Sim,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,32.48,775.34,4,Não
+CLI-0343,Feminino,0,Não,Não,58,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,40.84,2374.35,1,Sim
+CLI-0344,Masculino,0,Não,Não,5,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,72.64,370.33,3,Sim
+CLI-0345,Masculino,0,Não,Não,16,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,82.88,1321.33,2,Não
+CLI-0346,Masculino,0,Não,Não,33,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,30.99,1028.38,2,Não
+CLI-0347,Feminino,0,Sim,Sim,43,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Eletrônico,88.08,3787.44,1,Não
+CLI-0348,Masculino,1,Não,Não,23,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Cartão de Crédito,96.62,2215.79,0,Não
+CLI-0349,Feminino,0,Não,Não,9,Sim,DSL,Sim,Sim,Mensal,Sim,Transferência Automática,71.07,648.03,0,Sim
+CLI-0350,Feminino,1,Sim,Sim,23,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,49.24,1131.89,5,Sim
+CLI-0351,Masculino,0,Sim,Não,53,Não,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,67.06,3572.6,4,Sim
+CLI-0352,Masculino,0,Não,Não,1,Não,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,64.23,64.69,1,Sim
+CLI-0353,Feminino,0,Sim,Não,13,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,97.24,1256.1,2,Não
+CLI-0354,Masculino,0,Sim,Sim,46,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,61.46,2830.52,0,Sim
+CLI-0355,Masculino,0,Sim,Sim,61,Sim,DSL,Sim,Sim,2 Anos,Sim,Transferência Automática,72.24,4412.58,0,Não
+CLI-0356,Masculino,0,Não,Não,51,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Transferência Automática,34.85,1784.83,3,Não
+CLI-0357,Feminino,0,Sim,Sim,32,Sim,Fibra Óptica,Sim,Não,Anual,Não,Transferência Automática,83.85,2691.96,1,Não
+CLI-0358,Feminino,0,Sim,Não,47,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,62.01,2906.62,2,Não
+CLI-0359,Feminino,1,Não,Não,68,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Bancário,83.28,5666.54,1,Sim
+CLI-0360,Masculino,0,Sim,Não,30,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,70.57,2110.49,0,Não
+CLI-0361,Masculino,0,Sim,Não,25,Sim,DSL,Não,Sim,Anual,Sim,Boleto Eletrônico,64.51,1626.69,4,Não
+CLI-0362,Feminino,0,Não,Não,31,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,31.97,989.75,2,Não
+CLI-0363,Feminino,0,Sim,Não,28,Sim,DSL,Sim,Sim,Anual,Sim,Boleto Bancário,77.58,2187.78,1,Não
+CLI-0364,Masculino,1,Sim,Não,71,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Boleto Eletrônico,85.51,6075.76,0,Não
+CLI-0365,Feminino,0,Sim,Não,36,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,63.16,2285.79,2,Sim
+CLI-0366,Feminino,0,Não,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,23.5,574.51,0,Não
+CLI-0367,Feminino,0,Não,Não,11,Sim,DSL,Sim,Não,Mensal,Sim,Cartão de Crédito,64.56,728.85,0,Sim
+CLI-0368,Feminino,0,Não,Não,22,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,60.06,1332.03,2,Não
+CLI-0369,Feminino,0,Sim,Não,24,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,104.08,2507.62,2,Sim
+CLI-0370,Feminino,0,Sim,Não,26,Sim,DSL,Sim,Não,Anual,Não,Cartão de Crédito,69.93,1831.26,0,Não
+CLI-0371,Masculino,0,Não,Não,2,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,22.67,37.42,1,Sim
+CLI-0372,Masculino,1,Não,Não,21,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,91.06,1924.09,3,Sim
+CLI-0373,Feminino,0,Não,Não,23,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,86.56,1995.22,1,Sim
+CLI-0374,Masculino,1,Não,Não,10,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,63.02,649.03,2,Sim
+CLI-0375,Feminino,0,Sim,Não,29,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,29.46,855.12,2,Não
+CLI-0376,Feminino,1,Sim,Sim,18,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,54.5,971.49,2,Sim
+CLI-0377,Feminino,0,Não,Não,58,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Eletrônico,57.12,3322.57,0,Não
+CLI-0378,Feminino,0,Sim,Não,30,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,61.59,1852.61,0,Sim
+CLI-0379,Masculino,0,Não,Não,22,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,71.46,1579.91,0,Não
+CLI-0380,Feminino,0,Sim,Sim,26,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,42.37,1118.01,0,Sim
+CLI-0381,Masculino,0,Não,Não,23,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,77.62,1796.01,1,Sim
+CLI-0382,Masculino,0,Sim,Não,17,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,47.61,813.3,0,Sim
+CLI-0383,Feminino,0,Não,Não,6,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,81.52,489.15,0,Não
+CLI-0384,Feminino,1,Sim,Sim,29,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,71.21,2082.04,0,Sim
+CLI-0385,Masculino,0,Não,Não,28,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,68.92,1933.41,1,Não
+CLI-0386,Masculino,0,Sim,Sim,19,Não,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,62.57,1189.14,2,Não
+CLI-0387,Feminino,0,Sim,Sim,55,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,60.22,3314.94,0,Não
+CLI-0388,Feminino,0,Sim,Sim,16,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,52.15,845.3,0,Não
+CLI-0389,Feminino,0,Não,Não,32,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Eletrônico,85.04,2716.13,5,Sim
+CLI-0390,Feminino,0,Não,Não,28,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,41.06,1166.48,0,Não
+CLI-0391,Feminino,0,Sim,Não,30,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,30.12,920.24,1,Sim
+CLI-0392,Masculino,0,Sim,Não,18,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Bancário,89.09,1611.02,2,Não
+CLI-0393,Masculino,0,Não,Não,14,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,82.9,1154.28,1,Sim
+CLI-0394,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,79.14,1039.73,1,Não
+CLI-0395,Masculino,0,Sim,Sim,24,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,78.48,1901.94,1,Não
+CLI-0396,Masculino,0,Não,Não,19,Sim,DSL,Sim,Sim,Mensal,Não,Boleto Eletrônico,77.26,1487.06,0,Sim
+CLI-0397,Feminino,0,Sim,Não,6,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,58.57,342.65,1,Sim
+CLI-0398,Feminino,0,Sim,Não,33,Sim,DSL,Sim,Sim,2 Anos,Sim,Boleto Bancário,83.81,2767.87,4,Não
+CLI-0399,Feminino,1,Não,Não,28,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,68.61,1915.49,0,Sim
+CLI-0400,Masculino,0,Sim,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,26.69,19.46,1,Sim
+CLI-0401,Masculino,0,Sim,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,25.92,574.95,4,Sim
+CLI-0402,Feminino,0,Não,Não,12,Não,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,83.42,997.51,3,Sim
+CLI-0403,Masculino,0,Não,Não,19,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,82.88,1574.78,0,Sim
+CLI-0404,Masculino,0,Não,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Cartão de Crédito,24.34,442.84,3,Sim
+CLI-0405,Masculino,0,Sim,Sim,21,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,46.26,976.22,0,Não
+CLI-0406,Masculino,0,Sim,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,29.42,475.0,1,Não
+CLI-0407,Feminino,0,Sim,Não,15,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Cartão de Crédito,96.29,1461.71,0,Não
+CLI-0408,Feminino,0,Sim,Não,20,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,32.4,658.55,0,Não
+CLI-0409,Feminino,1,Não,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,22.45,355.74,2,Não
+CLI-0410,Feminino,0,Sim,Sim,1,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,73.35,81.28,0,Sim
+CLI-0411,Feminino,0,Sim,Não,7,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,61.17,441.43,0,Sim
+CLI-0412,Feminino,0,Não,Não,10,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,43.08,447.84,0,Sim
+CLI-0413,Masculino,0,Não,Não,28,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,56.49,1589.06,2,Não
+CLI-0414,Feminino,0,Sim,Não,7,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,27.12,200.78,0,Sim
+CLI-0415,Masculino,0,Sim,Sim,30,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Cartão de Crédito,85.57,2573.81,1,Não
+CLI-0416,Masculino,0,Não,Não,38,Sim,Fibra Óptica,Não,Não,Anual,Não,Cartão de Crédito,72.85,2785.14,0,Não
+CLI-0417,Masculino,0,Não,Não,22,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,74.66,1654.76,0,Não
+CLI-0418,Masculino,0,Não,Não,27,Sim,DSL,Não,Não,Mensal,Não,Transferência Automática,48.9,1332.99,1,Não
+CLI-0419,Masculino,0,Não,Não,15,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,62.02,923.29,1,Sim
+CLI-0420,Feminino,0,Não,Não,20,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,47.38,951.58,1,Sim
+CLI-0421,Masculino,0,Sim,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,66.64,924.04,3,Sim
+CLI-0422,Masculino,1,Não,Não,4,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,47.05,195.07,1,Sim
+CLI-0423,Masculino,0,Não,Não,28,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Cartão de Crédito,80.23,2258.7,1,Não
+CLI-0424,Masculino,0,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,61.72,1291.21,1,Não
+CLI-0425,Masculino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,61.5,1855.25,0,Sim
+CLI-0426,Masculino,0,Sim,Não,10,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,69.37,712.44,1,Sim
+CLI-0427,Masculino,0,Não,Não,29,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Bancário,81.21,2352.63,3,Não
+CLI-0428,Feminino,0,Sim,Não,53,Sim,DSL,Não,Não,2 Anos,Não,Boleto Eletrônico,53.6,2858.84,1,Não
+CLI-0429,Feminino,0,Não,Não,50,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,20.97,1044.61,1,Não
+CLI-0430,Feminino,0,Sim,Sim,26,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,49.7,1283.31,0,Não
+CLI-0431,Masculino,0,Sim,Não,24,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,84.02,2032.5,3,Sim
+CLI-0432,Feminino,0,Sim,Sim,42,Sim,DSL,Não,Não,Anual,Não,Boleto Bancário,53.97,2264.29,1,Não
+CLI-0433,Masculino,0,Não,Não,71,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,104.55,7426.23,1,Não
+CLI-0434,Feminino,0,Não,Não,8,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,34.05,273.29,0,Não
+CLI-0435,Feminino,0,Sim,Não,25,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,73.55,1849.31,3,Sim
+CLI-0436,Masculino,0,Não,Não,30,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,88.74,2671.14,2,Sim
+CLI-0437,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,61.51,855.95,1,Sim
+CLI-0438,Masculino,0,Sim,Não,21,Sim,DSL,Sim,Não,Anual,Sim,Boleto Bancário,64.42,1352.23,0,Não
+CLI-0439,Feminino,0,Não,Não,30,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,22.0,655.2,2,Não
+CLI-0440,Masculino,0,Não,Não,60,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Eletrônico,33.85,2040.41,5,Sim
+CLI-0441,Feminino,1,Não,Não,19,Não,Fibra Óptica,Não,Sim,Anual,Não,Transferência Automática,85.78,1632.87,3,Não
+CLI-0442,Feminino,0,Sim,Não,41,Sim,DSL,Sim,Não,2 Anos,Sim,Boleto Bancário,64.0,2643.86,1,Não
+CLI-0443,Feminino,1,Não,Não,15,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,60.15,896.25,2,Não
+CLI-0444,Masculino,0,Não,Não,18,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,89.95,1637.28,0,Sim
+CLI-0445,Masculino,0,Não,Não,18,Sim,DSL,Não,Sim,Anual,Não,Boleto Bancário,62.56,1143.99,0,Não
+CLI-0446,Masculino,1,Sim,Sim,55,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,31.22,1734.89,1,Não
+CLI-0447,Masculino,0,Não,Não,44,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Bancário,53.84,2378.06,0,Não
+CLI-0448,Feminino,0,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,67.28,1955.91,0,Sim
+CLI-0449,Masculino,0,Sim,Não,60,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,47.89,2880.52,0,Não
+CLI-0450,Feminino,0,Sim,Sim,31,Sim,DSL,Não,Não,2 Anos,Não,Transferência Automática,42.31,1304.04,1,Não
+CLI-0451,Feminino,0,Sim,Não,44,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,33.6,1492.31,3,Não
+CLI-0452,Feminino,0,Não,Não,9,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,32.98,289.5,1,Sim
+CLI-0453,Feminino,1,Não,Não,71,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Transferência Automática,84.98,6048.54,1,Não
+CLI-0454,Masculino,0,Não,Não,14,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,40.61,568.79,1,Não
+CLI-0455,Masculino,0,Sim,Sim,30,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,64.51,1932.76,1,Não
+CLI-0456,Feminino,0,Não,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,25.33,564.83,0,Não
+CLI-0457,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,70.05,989.41,0,Sim
+CLI-0458,Masculino,0,Sim,Sim,13,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,73.03,968.36,0,Não
+CLI-0459,Masculino,0,Não,Não,29,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Bancário,104.56,3048.01,1,Não
+CLI-0460,Feminino,1,Não,Não,14,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Bancário,89.46,1256.58,0,Sim
+CLI-0461,Masculino,1,Sim,Sim,51,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,31.06,1591.94,0,Não
+CLI-0462,Masculino,0,Sim,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,61.75,687.93,2,Sim
+CLI-0463,Masculino,0,Não,Não,8,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,52.8,433.86,2,Sim
+CLI-0464,Masculino,0,Não,Não,20,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Eletrônico,61.94,1234.78,2,Não
+CLI-0465,Masculino,0,Sim,Não,46,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Transferência Automática,88.42,4058.28,0,Não
+CLI-0466,Feminino,0,Não,Não,12,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,53.11,645.45,4,Sim
+CLI-0467,Masculino,0,Sim,Não,49,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,32.35,1576.41,3,Não
+CLI-0468,Feminino,0,Não,Não,41,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,62.07,2560.33,2,Sim
+CLI-0469,Masculino,0,Sim,Sim,25,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,62.94,1587.12,1,Sim
+CLI-0470,Masculino,0,Não,Não,52,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,61.27,3185.48,1,Não
+CLI-0471,Feminino,0,Sim,Não,21,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,46.29,988.66,2,Sim
+CLI-0472,Masculino,1,Não,Não,63,Sim,DSL,Não,Sim,2 Anos,Não,Cartão de Crédito,63.17,3993.36,3,Não
+CLI-0473,Masculino,0,Não,Não,18,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,69.88,1256.36,1,Não
+CLI-0474,Feminino,1,Não,Não,25,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,72.62,1813.29,0,Sim
+CLI-0475,Feminino,0,Sim,Sim,71,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,48.0,3415.87,2,Não
+CLI-0476,Feminino,0,Sim,Sim,7,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,87.43,604.47,1,Sim
+CLI-0477,Masculino,0,Não,Não,43,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Transferência Automática,28.76,1245.77,2,Não
+CLI-0478,Feminino,1,Sim,Sim,23,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,40.49,925.98,1,Sim
+CLI-0479,Feminino,0,Não,Não,5,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,75.42,371.39,0,Não
+CLI-0480,Masculino,0,Não,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,26.26,479.87,2,Não
+CLI-0481,Feminino,0,Não,Não,38,Sim,DSL,Sim,Não,Anual,Não,Cartão de Crédito,64.35,2446.92,1,Não
+CLI-0482,Masculino,0,Sim,Não,46,Sim,DSL,Sim,Não,Anual,Não,Boleto Eletrônico,64.66,2966.91,5,Não
+CLI-0483,Masculino,0,Sim,Sim,35,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Cartão de Crédito,87.58,3072.69,1,Sim
+CLI-0484,Feminino,0,Sim,Sim,44,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,64.28,2823.8,0,Não
+CLI-0485,Feminino,1,Não,Não,23,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,79.86,1838.05,0,Sim
+CLI-0486,Feminino,0,Não,Não,41,Não,DSL,Não,Não,2 Anos,Não,Cartão de Crédito,46.11,1887.52,1,Não
+CLI-0487,Feminino,0,Sim,Sim,3,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,63.11,184.38,5,Sim
+CLI-0488,Feminino,1,Não,Não,63,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,20.01,1278.64,3,Não
+CLI-0489,Masculino,0,Sim,Não,2,Sim,DSL,Sim,Sim,Mensal,Não,Cartão de Crédito,80.48,175.87,3,Sim
+CLI-0490,Masculino,0,Não,Não,38,Sim,DSL,Sim,Sim,Anual,Não,Boleto Bancário,84.38,3206.29,1,Sim
+CLI-0491,Masculino,1,Sim,Não,29,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,68.15,1985.89,2,Não
+CLI-0492,Masculino,0,Não,Não,27,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,69.04,1867.42,2,Não
+CLI-0493,Masculino,0,Não,Não,38,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,68.57,2616.87,6,Não
+CLI-0494,Feminino,0,Não,Não,7,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,40.98,280.71,4,Sim
+CLI-0495,Masculino,0,Sim,Não,44,Sim,DSL,Não,Sim,Anual,Não,Cartão de Crédito,61.41,2712.23,1,Não
+CLI-0496,Masculino,1,Não,Não,17,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,23.37,395.63,0,Não
+CLI-0497,Masculino,1,Sim,Não,23,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,94.66,2185.96,1,Sim
+CLI-0498,Masculino,0,Sim,Sim,11,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,27.8,302.9,2,Não
+CLI-0499,Feminino,1,Sim,Não,29,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,81.63,2366.31,0,Sim
+CLI-0500,Feminino,0,Não,Não,20,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,60.16,1204.72,0,Não
+CLI-0501,Feminino,0,Não,Não,16,Sim,DSL,Sim,Não,Anual,Não,Cartão de Crédito,57.9,933.6,1,Não
+CLI-0502,Masculino,0,Sim,Não,10,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,48.75,493.73,0,Sim
+CLI-0503,Masculino,0,Sim,Sim,27,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,84.61,2280.51,2,Não
+CLI-0504,Masculino,0,Não,Não,60,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,61.81,3722.28,4,Não
+CLI-0505,Feminino,0,Sim,Sim,31,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,60.1,1853.4,0,Sim
+CLI-0506,Masculino,1,Sim,Sim,8,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,57.68,452.08,0,Sim
+CLI-0507,Masculino,0,Sim,Sim,15,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,29.91,466.88,3,Sim
+CLI-0508,Feminino,0,Sim,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,73.82,972.55,2,Sim
+CLI-0509,Feminino,0,Não,Não,56,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,23.14,1288.28,0,Não
+CLI-0510,Masculino,0,Não,Não,23,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,44.03,1014.72,0,Não
+CLI-0511,Masculino,0,Não,Não,14,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,48.26,669.67,1,Sim
+CLI-0512,Feminino,0,Não,Não,15,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,75.37,1133.8,1,Sim
+CLI-0513,Feminino,0,Sim,Sim,2,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,86.18,185.41,2,Não
+CLI-0514,Masculino,1,Não,Não,12,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,69.83,842.12,3,Sim
+CLI-0515,Feminino,0,Não,Não,39,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,74.13,2893.6,1,Não
+CLI-0516,Feminino,0,Sim,Sim,32,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,71.68,2299.89,1,Sim
+CLI-0517,Feminino,1,Não,Não,48,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,54.23,2594.95,0,Não
+CLI-0518,Masculino,0,Não,Não,4,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,60.4,237.57,0,Sim
+CLI-0519,Feminino,0,Não,Não,6,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,25.87,174.91,1,Sim
+CLI-0520,Feminino,1,Sim,Sim,66,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,47.54,3148.19,6,Sim
+CLI-0521,Masculino,0,Sim,Não,55,Sim,DSL,Não,Sim,2 Anos,Não,Cartão de Crédito,68.21,3755.24,1,Não
+CLI-0522,Feminino,0,Sim,Não,39,Sim,DSL,Não,Sim,Anual,Não,Boleto Bancário,65.48,2545.03,0,Não
+CLI-0523,Masculino,0,Sim,Não,23,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Cartão de Crédito,80.53,1864.85,1,Não
+CLI-0524,Feminino,0,Não,Não,21,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,52.84,1111.54,2,Sim
+CLI-0525,Masculino,0,Sim,Sim,38,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,32.62,1234.68,0,Não
+CLI-0526,Masculino,0,Sim,Não,12,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,46.63,550.99,1,Sim
+CLI-0527,Feminino,0,Sim,Não,25,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,89.84,2246.11,0,Não
+CLI-0528,Feminino,0,Sim,Sim,11,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,45.93,508.07,1,Sim
+CLI-0529,Masculino,0,Sim,Sim,3,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,88.28,267.17,6,Sim
+CLI-0530,Feminino,0,Sim,Não,68,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,31.57,2140.75,5,Não
+CLI-0531,Feminino,0,Não,Não,21,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,55.32,1174.49,2,Não
+CLI-0532,Feminino,1,Não,Não,7,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,83.97,606.17,0,Sim
+CLI-0533,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,63.09,1758.14,3,Não
+CLI-0534,Feminino,0,Não,Não,6,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,77.89,476.37,0,Sim
+CLI-0535,Feminino,0,Sim,Sim,6,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Cartão de Crédito,94.28,569.13,3,Sim
+CLI-0536,Masculino,0,Sim,Sim,20,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,40.3,807.44,1,Sim
+CLI-0537,Feminino,0,Não,Não,10,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Eletrônico,77.04,765.04,3,Sim
+CLI-0538,Masculino,0,Não,Não,71,Sim,DSL,Não,Não,2 Anos,Não,Transferência Automática,46.13,3266.39,4,Sim
+CLI-0539,Masculino,0,Não,Não,16,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,81.36,1299.16,1,Não
+CLI-0540,Feminino,0,Não,Não,33,Sim,DSL,Não,Não,2 Anos,Não,Transferência Automática,40.19,1339.4,1,Não
+CLI-0541,Feminino,0,Sim,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,65.74,919.6,0,Sim
+CLI-0542,Masculino,0,Não,Não,35,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Transferência Automática,76.45,2688.96,2,Não
+CLI-0543,Feminino,0,Sim,Não,6,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,78.01,480.56,0,Não
+CLI-0544,Masculino,0,Sim,Não,10,Não,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,93.52,939.76,0,Não
+CLI-0545,Feminino,0,Sim,Sim,1,Sim,DSL,Não,Sim,Mensal,Não,Cartão de Crédito,62.29,75.0,1,Não
+CLI-0546,Masculino,0,Não,Não,34,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,33.1,1139.59,2,Não
+CLI-0547,Feminino,1,Sim,Não,23,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,73.05,1685.6,6,Não
+CLI-0548,Masculino,1,Não,Não,71,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,69.19,4904.93,6,Não
+CLI-0549,Feminino,0,Não,Não,19,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,31.77,615.13,2,Não
+CLI-0550,Masculino,0,Não,Não,54,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,84.9,4577.28,0,Não
+CLI-0551,Masculino,0,Sim,Não,17,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Cartão de Crédito,29.5,506.26,3,Não
+CLI-0552,Feminino,0,Não,Não,71,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,72.84,5185.89,0,Sim
+CLI-0553,Masculino,0,Sim,Não,12,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,64.66,783.62,5,Sim
+CLI-0554,Masculino,0,Sim,Não,24,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,87.24,2092.66,0,Não
+CLI-0555,Feminino,0,Não,Não,23,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,30.6,708.15,0,Não
+CLI-0556,Feminino,0,Não,Não,23,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,40.79,954.13,2,Sim
+CLI-0557,Feminino,0,Não,Não,22,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,85.9,1888.27,0,Sim
+CLI-0558,Feminino,0,Não,Não,6,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,63.15,393.03,1,Não
+CLI-0559,Feminino,0,Sim,Sim,67,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,21.44,1455.7,0,Não
+CLI-0560,Masculino,0,Sim,Não,2,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,77.59,167.54,2,Não
+CLI-0561,Masculino,0,Não,Não,4,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,63.37,261.09,0,Não
+CLI-0562,Feminino,0,Não,Não,5,Não,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,62.77,328.24,0,Não
+CLI-0563,Feminino,0,Sim,Não,35,Sim,DSL,Sim,Não,2 Anos,Sim,Boleto Bancário,59.71,2081.02,0,Não
+CLI-0564,Feminino,1,Sim,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,29.87,535.11,2,Não
+CLI-0565,Masculino,0,Não,Não,42,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,77.82,3267.43,1,Não
+CLI-0566,Masculino,0,Não,Não,9,Sim,DSL,Sim,Não,Mensal,Não,Boleto Bancário,69.17,632.83,1,Sim
+CLI-0567,Masculino,0,Sim,Não,42,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Eletrônico,81.5,3413.78,0,Não
+CLI-0568,Masculino,1,Sim,Sim,9,Sim,DSL,Sim,Sim,Mensal,Não,Boleto Eletrônico,84.69,758.88,0,Não
+CLI-0569,Masculino,0,Não,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,28.27,347.46,0,Não
+CLI-0570,Feminino,0,Não,Não,5,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,42.14,217.73,2,Sim
+CLI-0571,Masculino,0,Sim,Sim,15,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,73.22,1112.72,4,Sim
+CLI-0572,Masculino,0,Sim,Sim,3,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,67.39,218.4,2,Não
+CLI-0573,Feminino,0,Sim,Sim,10,Sim,DSL,Não,Sim,Anual,Não,Boleto Eletrônico,66.08,679.33,1,Não
+CLI-0574,Feminino,0,Não,Não,56,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Boleto Eletrônico,89.55,5014.94,0,Não
+CLI-0575,Masculino,0,Não,Não,10,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,27.73,294.1,0,Sim
+CLI-0576,Masculino,0,Não,Não,12,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,82.38,981.1,1,Não
+CLI-0577,Feminino,1,Não,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,64.04,852.2,0,Sim
+CLI-0578,Masculino,1,Sim,Sim,5,Sim,DSL,Não,Sim,Mensal,Não,Cartão de Crédito,57.98,294.28,0,Não
+CLI-0579,Masculino,0,Sim,Sim,35,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,32.65,1144.42,2,Sim
+CLI-0580,Masculino,0,Sim,Sim,51,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,62.29,3189.62,2,Não
+CLI-0581,Masculino,0,Não,Não,39,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,61.55,2412.36,6,Não
+CLI-0582,Feminino,0,Sim,Sim,7,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,75.76,532.54,0,Sim
+CLI-0583,Feminino,0,Sim,Sim,9,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,57.73,509.59,0,Sim
+CLI-0584,Feminino,0,Não,Não,47,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,71.56,3357.23,2,Não
+CLI-0585,Masculino,0,Não,Não,13,Não,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,60.62,807.11,0,Sim
+CLI-0586,Feminino,1,Não,Não,16,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,77.88,1252.59,3,Sim
+CLI-0587,Feminino,0,Sim,Sim,17,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,79.34,1367.45,2,Sim
+CLI-0588,Feminino,0,Não,Não,34,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Transferência Automática,93.27,3182.08,1,Não
+CLI-0589,Masculino,0,Sim,Sim,4,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Cartão de Crédito,92.22,385.39,3,Sim
+CLI-0590,Feminino,0,Sim,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,24.87,316.83,2,Não
+CLI-0591,Masculino,0,Sim,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,22.65,290.95,2,Não
+CLI-0592,Masculino,0,Sim,Não,9,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,46.69,432.1,4,Sim
+CLI-0593,Feminino,0,Sim,Sim,24,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,87.26,2104.86,0,Sim
+CLI-0594,Masculino,1,Sim,Não,62,Não,Fibra Óptica,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,102.46,6370.56,0,Não
+CLI-0595,Feminino,0,Sim,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,21.27,504.66,3,Sim
+CLI-0596,Masculino,1,Sim,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,21.54,386.62,0,Não
+CLI-0597,Feminino,0,Não,Não,21,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,30.27,646.27,1,Não
+CLI-0598,Feminino,1,Não,Não,20,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,75.65,1507.53,1,Não
+CLI-0599,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Eletrônico,73.99,2086.04,2,Não
+CLI-0600,Feminino,0,Sim,Sim,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,32.22,766.67,0,Não
+CLI-0601,Feminino,0,Não,Não,16,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,45.0,734.06,1,Não
+CLI-0602,Masculino,0,Sim,Sim,36,Sim,DSL,Não,Sim,Anual,Sim,Boleto Eletrônico,56.31,2028.01,1,Não
+CLI-0603,Feminino,0,Sim,Não,28,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,24.42,678.08,0,Não
+CLI-0604,Feminino,0,Sim,Não,34,Sim,DSL,Não,Sim,Anual,Sim,Boleto Bancário,56.59,1931.51,0,Não
+CLI-0605,Feminino,0,Sim,Não,33,Sim,DSL,Sim,Não,2 Anos,Não,Transferência Automática,69.23,2288.7,2,Não
+CLI-0606,Masculino,1,Sim,Não,25,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,74.22,1859.13,4,Sim
+CLI-0607,Feminino,0,Sim,Sim,13,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,78.28,1013.15,3,Sim
+CLI-0608,Masculino,0,Não,Não,34,Não,Fibra Óptica,Não,Sim,2 Anos,Não,Cartão de Crédito,76.57,2604.26,0,Não
+CLI-0609,Feminino,1,Sim,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,23.61,417.53,1,Não
+CLI-0610,Feminino,1,Sim,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,27.5,329.43,5,Não
+CLI-0611,Feminino,0,Sim,Não,11,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,64.35,702.4,5,Sim
+CLI-0612,Feminino,0,Sim,Não,17,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,45.12,780.6,1,Não
+CLI-0613,Feminino,0,Não,Não,20,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,28.5,589.83,0,Não
+CLI-0614,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,61.07,1843.42,5,Sim
+CLI-0615,Masculino,0,Sim,Não,55,Não,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,26.01,1446.26,1,Não
+CLI-0616,Masculino,0,Não,Não,9,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,20.64,205.08,2,Não
+CLI-0617,Feminino,0,Não,Não,19,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,61.4,1170.58,0,Sim
+CLI-0618,Feminino,0,Não,Não,22,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Transferência Automática,78.19,1732.42,0,Sim
+CLI-0619,Masculino,1,Sim,Sim,20,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,74.68,1490.0,5,Sim
+CLI-0620,Masculino,0,Sim,Sim,13,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,26.77,350.6,0,Sim
+CLI-0621,Masculino,0,Não,Não,12,Sim,DSL,Não,Não,Mensal,Não,Transferência Automática,54.48,656.86,3,Sim
+CLI-0622,Feminino,1,Sim,Sim,70,Sim,DSL,Sim,Sim,2 Anos,Não,Boleto Eletrônico,76.88,5376.02,2,Não
+CLI-0623,Masculino,0,Sim,Não,32,Sim,DSL,Não,Sim,2 Anos,Não,Boleto Bancário,66.19,2113.71,1,Não
+CLI-0624,Feminino,0,Sim,Sim,10,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,49.73,500.98,3,Sim
+CLI-0625,Masculino,1,Sim,Sim,18,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,50.33,909.06,6,Sim
+CLI-0626,Feminino,1,Sim,Não,16,Sim,DSL,Não,Não,Mensal,Não,Transferência Automática,47.55,774.98,0,Não
+CLI-0627,Masculino,1,Não,Não,46,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Transferência Automática,26.19,1219.35,0,Não
+CLI-0628,Feminino,0,Não,Não,40,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,33.64,1355.8,0,Não
+CLI-0629,Masculino,0,Não,Não,19,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,84.67,1623.59,0,Não
+CLI-0630,Feminino,0,Não,Não,14,Sim,DSL,Sim,Sim,Mensal,Não,Cartão de Crédito,78.65,1102.86,3,Sim
+CLI-0631,Masculino,0,Sim,Sim,25,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,61.18,1530.97,6,Sim
+CLI-0632,Masculino,0,Sim,Sim,8,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,25.67,203.17,4,Sim
+CLI-0633,Feminino,1,Sim,Sim,29,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,63.12,1823.5,0,Não
+CLI-0634,Feminino,0,Não,Não,11,Sim,DSL,Sim,Sim,Mensal,Não,Boleto Eletrônico,83.55,928.84,0,Sim
+CLI-0635,Masculino,0,Sim,Sim,17,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Bancário,77.29,1329.94,0,Sim
+CLI-0636,Feminino,0,Sim,Sim,3,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,62.44,192.7,0,Sim
+CLI-0637,Masculino,0,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,66.69,1941.9,1,Não
+CLI-0638,Masculino,0,Não,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,63.8,1342.09,1,Sim
+CLI-0639,Masculino,0,Sim,Sim,22,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Cartão de Crédito,100.32,2218.54,3,Sim
+CLI-0640,Masculino,0,Sim,Não,9,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,32.11,299.13,2,Sim
+CLI-0641,Masculino,0,Sim,Não,9,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,80.74,733.95,4,Sim
+CLI-0642,Masculino,1,Sim,Sim,16,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,30.85,491.84,0,Não
+CLI-0643,Masculino,0,Não,Não,15,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,54.07,804.13,0,Não
+CLI-0644,Masculino,0,Sim,Sim,47,Sim,DSL,Sim,Não,2 Anos,Sim,Boleto Eletrônico,55.79,2638.63,4,Sim
+CLI-0645,Masculino,0,Não,Não,6,Sim,DSL,Sim,Sim,Mensal,Não,Transferência Automática,72.22,440.84,1,Não
+CLI-0646,Feminino,0,Não,Não,44,Sim,DSL,Sim,Não,2 Anos,Não,Boleto Bancário,65.67,2890.07,2,Não
+CLI-0647,Feminino,0,Sim,Não,1,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,45.11,59.53,2,Sim
+CLI-0648,Masculino,0,Sim,Não,12,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,61.0,724.06,5,Sim
+CLI-0649,Feminino,1,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,65.28,1886.67,1,Sim
+CLI-0650,Masculino,0,Sim,Sim,2,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,61.04,129.9,1,Sim
+CLI-0651,Feminino,0,Sim,Sim,2,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,88.24,187.47,0,Não
+CLI-0652,Masculino,0,Sim,Não,10,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Bancário,103.62,1044.86,0,Não
+CLI-0653,Feminino,0,Não,Não,1,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,88.22,83.34,1,Não
+CLI-0654,Feminino,0,Sim,Sim,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,32.53,38.29,2,Sim
+CLI-0655,Masculino,0,Não,Não,40,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,64.52,2580.81,0,Não
+CLI-0656,Feminino,1,Não,Não,66,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,85.44,5641.96,0,Não
+CLI-0657,Feminino,0,Não,Não,57,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,25.23,1438.05,0,Não
+CLI-0658,Masculino,0,Sim,Sim,26,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,70.28,1831.27,1,Não
+CLI-0659,Masculino,0,Sim,Não,2,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,21.85,48.35,2,Sim
+CLI-0660,Masculino,1,Não,Não,42,Sim,DSL,Sim,Sim,Anual,Sim,Boleto Eletrônico,74.06,3130.4,0,Não
+CLI-0661,Masculino,0,Não,Não,29,Não,Fibra Óptica,Sim,Sim,Mensal,Sim,Boleto Bancário,98.46,2865.71,2,Sim
+CLI-0662,Feminino,0,Sim,Sim,19,Sim,DSL,Sim,Não,Mensal,Sim,Cartão de Crédito,67.51,1275.57,1,Não
+CLI-0663,Masculino,0,Não,Não,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,20.4,298.6,1,Não
+CLI-0664,Feminino,0,Não,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,20.8,389.75,1,Não
+CLI-0665,Masculino,0,Sim,Sim,65,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,50.36,3289.33,2,Não
+CLI-0666,Masculino,1,Sim,Sim,30,Não,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,55.0,1658.11,0,Sim
+CLI-0667,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,72.63,2185.3,3,Sim
+CLI-0668,Masculino,1,Sim,Sim,66,Sim,DSL,Não,Sim,2 Anos,Sim,Transferência Automática,62.21,4104.54,1,Não
+CLI-0669,Masculino,0,Sim,Sim,33,Não,DSL,Não,Sim,2 Anos,Não,Transferência Automática,59.54,1974.17,0,Não
+CLI-0670,Feminino,0,Não,Não,6,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,27.55,165.77,1,Sim
+CLI-0671,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,80.91,2282.96,5,Sim
+CLI-0672,Feminino,0,Não,Não,11,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,41.01,442.0,0,Sim
+CLI-0673,Masculino,0,Sim,Não,70,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Eletrônico,65.76,4622.4,1,Sim
+CLI-0674,Feminino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,74.83,830.34,1,Não
+CLI-0675,Feminino,0,Sim,Sim,26,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,43.05,1133.6,2,Não
+CLI-0676,Feminino,0,Não,Não,7,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,48.38,332.8,1,Não
+CLI-0677,Feminino,1,Não,Não,16,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,84.11,1363.43,0,Não
+CLI-0678,Masculino,1,Sim,Não,56,Sim,DSL,Não,Não,2 Anos,Não,Boleto Eletrônico,48.74,2747.55,0,Não
+CLI-0679,Feminino,0,Sim,Sim,24,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,62.4,1511.77,0,Sim
+CLI-0680,Masculino,0,Sim,Não,5,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,84.76,426.75,0,Sim
+CLI-0681,Feminino,0,Não,Não,11,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,66.45,733.76,0,Não
+CLI-0682,Masculino,0,Não,Não,2,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,86.29,186.81,6,Sim
+CLI-0683,Feminino,0,Sim,Sim,10,Não,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,79.39,802.08,2,Sim
+CLI-0684,Feminino,0,Não,Não,38,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Cartão de Crédito,73.03,2772.47,2,Não
+CLI-0685,Feminino,0,Não,Não,49,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,67.81,3321.84,1,Não
+CLI-0686,Feminino,1,Sim,Não,39,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Eletrônico,83.82,3267.99,0,Não
+CLI-0687,Masculino,1,Não,Não,2,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,69.91,130.76,4,Sim
+CLI-0688,Masculino,0,Não,Não,61,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Eletrônico,72.99,4465.87,3,Não
+CLI-0689,Masculino,0,Não,Não,24,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,66.18,1606.06,0,Não
+CLI-0690,Masculino,1,Sim,Não,19,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,51.74,997.37,0,Não
+CLI-0691,Masculino,0,Não,Não,15,Não,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,68.35,1027.51,0,Sim
+CLI-0692,Masculino,0,Não,Não,25,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,77.62,1956.64,0,Sim
+CLI-0693,Masculino,0,Sim,Não,23,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,20.24,480.87,1,Sim
+CLI-0694,Feminino,0,Sim,Não,11,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,30.22,324.56,0,Sim
+CLI-0695,Masculino,0,Não,Não,47,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Bancário,29.33,1373.32,4,Sim
+CLI-0696,Feminino,0,Não,Não,48,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,74.97,3590.91,1,Não
+CLI-0697,Masculino,0,Sim,Não,2,Sim,DSL,Não,Sim,Mensal,Não,Cartão de Crédito,57.93,123.12,0,Não
+CLI-0698,Masculino,0,Não,Não,17,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,61.2,1047.21,2,Não
+CLI-0699,Masculino,0,Sim,Não,32,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Cartão de Crédito,69.99,2247.85,0,Sim
+CLI-0700,Masculino,0,Sim,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,20.23,438.68,2,Não
+CLI-0701,Feminino,0,Sim,Não,32,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,41.91,1352.03,0,Não
+CLI-0702,Masculino,0,Sim,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,33.66,816.76,0,Não
+CLI-0703,Feminino,0,Sim,Sim,19,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,47.63,912.61,0,Sim
+CLI-0704,Feminino,0,Não,Não,13,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,86.02,1137.94,1,Não
+CLI-0705,Feminino,0,Sim,Sim,15,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,84.09,1254.53,0,Sim
+CLI-0706,Feminino,1,Sim,Não,26,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,44.23,1168.42,1,Não
+CLI-0707,Masculino,0,Sim,Sim,9,Não,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Bancário,89.53,819.88,2,Sim
+CLI-0708,Masculino,0,Sim,Não,30,Não,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,62.86,1892.55,4,Sim
+CLI-0709,Feminino,1,Não,Não,38,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,86.0,3266.48,5,Não
+CLI-0710,Feminino,1,Sim,Sim,21,Não,DSL,Não,Não,Anual,Sim,Boleto Bancário,43.52,914.38,3,Não
+CLI-0711,Masculino,0,Não,Não,35,Sim,DSL,Sim,Sim,Anual,Não,Transferência Automática,84.44,2972.3,5,Sim
+CLI-0712,Masculino,1,Não,Não,66,Sim,DSL,Não,Não,2 Anos,Sim,Transferência Automática,47.26,3133.3,2,Sim
+CLI-0713,Masculino,0,Não,Não,25,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,46.38,1157.32,2,Sim
+CLI-0714,Feminino,0,Não,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,69.2,2006.69,5,Sim
+CLI-0715,Masculino,1,Não,Não,59,Não,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Bancário,89.78,5312.16,0,Não
+CLI-0716,Masculino,0,Sim,Não,1,Não,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,80.97,85.52,0,Não
+CLI-0717,Feminino,1,Sim,Não,13,Sim,DSL,Sim,Sim,Mensal,Não,Transferência Automática,71.11,936.09,0,Não
+CLI-0718,Feminino,1,Não,Não,20,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,44.53,894.37,1,Sim
+CLI-0719,Feminino,0,Não,Não,30,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,50.91,1545.84,1,Sim
+CLI-0720,Feminino,0,Sim,Sim,4,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,61.43,240.8,1,Sim
+CLI-0721,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,79.67,2151.23,2,Não
+CLI-0722,Feminino,0,Sim,Não,44,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,23.54,1039.6,4,Não
+CLI-0723,Feminino,0,Sim,Sim,20,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,21.7,450.57,0,Não
+CLI-0724,Masculino,0,Não,Não,10,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,24.07,240.37,0,Não
+CLI-0725,Feminino,0,Não,Não,9,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Transferência Automática,89.94,827.3,0,Sim
+CLI-0726,Feminino,0,Sim,Sim,23,Não,DSL,Sim,Não,Mensal,Não,Boleto Bancário,63.92,1462.16,0,Sim
+CLI-0727,Feminino,0,Não,Não,29,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,49.62,1435.06,2,Sim
+CLI-0728,Masculino,0,Sim,Não,34,Sim,DSL,Não,Sim,Anual,Não,Transferência Automática,67.11,2297.88,0,Sim
+CLI-0729,Feminino,0,Sim,Não,19,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,24.85,489.03,1,Não
+CLI-0730,Masculino,0,Sim,Sim,25,Sim,DSL,Sim,Não,Mensal,Não,Boleto Bancário,62.96,1590.5,4,Não
+CLI-0731,Feminino,0,Não,Não,26,Sim,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,62.67,1645.4,2,Sim
+CLI-0732,Feminino,0,Sim,Não,36,Sim,DSL,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,71.41,2571.83,1,Sim
+CLI-0733,Masculino,0,Não,Não,23,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Transferência Automática,75.46,1747.12,1,Sim
+CLI-0734,Feminino,1,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,60.84,1286.76,3,Sim
+CLI-0735,Feminino,0,Sim,Sim,30,Sim,Fibra Óptica,Não,Não,Anual,Não,Transferência Automática,65.49,1955.13,3,Não
+CLI-0736,Feminino,0,Sim,Não,15,Não,DSL,Não,Não,Mensal,Não,Cartão de Crédito,49.53,758.21,0,Sim
+CLI-0737,Masculino,0,Sim,Não,4,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Boleto Eletrônico,99.4,388.2,0,Sim
+CLI-0738,Feminino,0,Sim,Sim,22,Sim,DSL,Sim,Não,Anual,Sim,Transferência Automática,59.31,1303.19,0,Sim
+CLI-0739,Feminino,0,Não,Não,15,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,49.63,747.94,0,Não
+CLI-0740,Masculino,1,Sim,Não,21,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,62.56,1328.66,1,Sim
+CLI-0741,Feminino,0,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,65.67,1386.72,1,Não
+CLI-0742,Feminino,1,Não,Não,21,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,83.2,1759.76,1,Não
+CLI-0743,Masculino,0,Sim,Sim,11,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,78.51,881.65,1,Sim
+CLI-0744,Masculino,0,Sim,Não,62,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,22.98,1443.93,2,Não
+CLI-0745,Feminino,0,Não,Não,19,Sim,DSL,Sim,Sim,Anual,Sim,Boleto Eletrônico,72.21,1388.48,0,Não
+CLI-0746,Masculino,1,Sim,Sim,33,Não,Fibra Óptica,Sim,Não,Anual,Sim,Transferência Automática,80.91,2666.4,3,Não
+CLI-0747,Feminino,0,Não,Não,18,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Cartão de Crédito,88.09,1593.53,1,Não
+CLI-0748,Feminino,0,Sim,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,61.16,669.66,0,Sim
+CLI-0749,Masculino,0,Sim,Sim,13,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,57.69,751.92,1,Sim
+CLI-0750,Feminino,0,Não,Não,24,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Transferência Automática,60.17,1453.69,2,Sim
+CLI-0751,Masculino,0,Sim,Não,52,Sim,DSL,Não,Não,2 Anos,Sim,Transferência Automática,54.58,2831.51,1,Não
+CLI-0752,Feminino,1,Não,Não,69,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,66.82,4602.04,3,Sim
+CLI-0753,Feminino,0,Não,Não,11,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,74.4,820.91,1,Não
+CLI-0754,Masculino,0,Não,Não,3,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,88.39,265.53,4,Sim
+CLI-0755,Masculino,1,Não,Não,5,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,62.69,325.21,1,Sim
+CLI-0756,Masculino,0,Sim,Não,4,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,48.09,206.17,1,Sim
+CLI-0757,Masculino,0,Sim,Sim,48,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Cartão de Crédito,93.11,4482.74,0,Não
+CLI-0758,Masculino,1,Sim,Sim,3,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,46.31,146.79,4,Sim
+CLI-0759,Masculino,0,Não,Não,28,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,63.84,1778.49,1,Sim
+CLI-0760,Masculino,1,Não,Não,25,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,57.5,1438.05,2,Sim
+CLI-0761,Masculino,0,Não,Não,32,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,21.85,701.07,1,Não
+CLI-0762,Feminino,0,Não,Não,32,Sim,Fibra Óptica,Não,Sim,Anual,Não,Cartão de Crédito,80.45,2567.57,1,Não
+CLI-0763,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,79.33,2227.22,2,Não
+CLI-0764,Feminino,0,Não,Não,50,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Transferência Automática,82.55,4119.92,4,Sim
+CLI-0765,Feminino,0,Não,Não,33,Não,DSL,Não,Não,Anual,Não,Transferência Automática,47.67,1568.9,1,Não
+CLI-0766,Feminino,0,Sim,Sim,29,Não,DSL,Não,Não,Mensal,Sim,Transferência Automática,46.65,1350.11,1,Sim
+CLI-0767,Masculino,0,Sim,Sim,14,Não,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,74.93,1064.89,5,Não
+CLI-0768,Feminino,0,Sim,Sim,27,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,65.45,1778.65,1,Sim
+CLI-0769,Feminino,0,Sim,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,31.93,698.76,1,Não
+CLI-0770,Feminino,0,Não,Não,15,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Eletrônico,70.54,1052.3,0,Sim
+CLI-0771,Masculino,0,Não,Não,34,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,62.32,2133.04,3,Sim
+CLI-0772,Feminino,1,Sim,Não,1,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,46.09,54.64,1,Sim
+CLI-0773,Masculino,0,Não,Não,55,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Eletrônico,27.23,1502.17,0,Não
+CLI-0774,Feminino,1,Sim,Não,15,Sim,DSL,Sim,Não,Mensal,Não,Boleto Bancário,67.28,1022.83,1,Sim
+CLI-0775,Feminino,0,Sim,Sim,71,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Bancário,67.84,4813.98,2,Não
+CLI-0776,Feminino,0,Não,Não,20,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,73.76,1492.38,0,Sim
+CLI-0777,Masculino,0,Sim,Sim,22,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,83.84,1852.43,1,Não
+CLI-0778,Feminino,0,Não,Não,22,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,43.78,965.38,0,Não
+CLI-0779,Masculino,0,Não,Não,18,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,81.6,1488.12,0,Não
+CLI-0780,Masculino,0,Sim,Sim,10,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,25.14,262.01,2,Não
+CLI-0781,Feminino,0,Não,Não,17,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,65.08,1106.07,2,Não
+CLI-0782,Feminino,0,Não,Não,36,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,72.84,2621.35,2,Não
+CLI-0783,Masculino,0,Não,Não,36,Não,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Bancário,20.83,752.14,5,Não
+CLI-0784,Feminino,0,Sim,Sim,28,Sim,Fibra Óptica,Não,Não,Anual,Não,Transferência Automática,68.37,1926.53,3,Sim
+CLI-0785,Feminino,0,Não,Não,61,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Transferência Automática,20.69,1271.87,0,Não
+CLI-0786,Masculino,1,Sim,Não,12,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,61.11,752.64,3,Sim
+CLI-0787,Feminino,0,Não,Não,19,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,50.34,950.67,5,Sim
+CLI-0788,Masculino,0,Sim,Sim,15,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,84.05,1278.73,1,Não
+CLI-0789,Feminino,0,Sim,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,34.4,50.59,0,Sim
+CLI-0790,Feminino,0,Sim,Não,44,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,47.03,2078.83,2,Não
+CLI-0791,Masculino,0,Sim,Não,21,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,54.23,1155.51,0,Não
+CLI-0792,Feminino,1,Não,Não,9,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,49.8,444.21,3,Sim
+CLI-0793,Feminino,0,Sim,Sim,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,20.59,14.41,0,Sim
+CLI-0794,Feminino,0,Sim,Sim,9,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,31.59,275.13,0,Não
+CLI-0795,Feminino,0,Sim,Sim,13,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,69.54,909.22,0,Sim
+CLI-0796,Masculino,0,Não,Não,30,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Eletrônico,82.17,2470.36,0,Não
+CLI-0797,Masculino,0,Sim,Sim,28,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,24.51,706.27,3,Sim
+CLI-0798,Masculino,0,Não,Não,28,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Bancário,80.43,2264.91,3,Não
+CLI-0799,Masculino,0,Sim,Sim,17,Sim,DSL,Não,Sim,Mensal,Sim,Transferência Automática,68.19,1152.51,0,Não
+CLI-0800,Masculino,0,Não,Não,11,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,88.08,986.29,2,Não
+CLI-0801,Feminino,1,Sim,Sim,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,72.84,1025.86,0,Sim
+CLI-0802,Masculino,1,Não,Não,66,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Bancário,42.94,2830.62,0,Não
+CLI-0803,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Cartão de Crédito,85.66,2573.66,2,Sim
+CLI-0804,Masculino,0,Sim,Não,26,Sim,DSL,Não,Não,2 Anos,Não,Boleto Bancário,54.69,1412.37,0,Não
+CLI-0805,Masculino,0,Não,Não,28,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,64.32,1807.34,2,Não
+CLI-0806,Masculino,0,Sim,Sim,55,Sim,DSL,Sim,Não,2 Anos,Não,Transferência Automática,66.45,3652.64,1,Não
+CLI-0807,Feminino,1,Não,Não,31,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Bancário,81.54,2547.27,1,Não
+CLI-0808,Feminino,1,Sim,Não,24,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,62.88,1523.13,2,Não
+CLI-0809,Feminino,0,Sim,Não,49,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Transferência Automática,30.74,1512.48,3,Não
+CLI-0810,Masculino,0,Não,Não,53,Sim,DSL,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,80.63,4283.43,0,Não
+CLI-0811,Feminino,0,Sim,Não,39,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,63.73,2485.98,0,Não
+CLI-0812,Feminino,0,Sim,Não,10,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,48.98,486.77,1,Não
+CLI-0813,Feminino,1,Não,Não,26,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,21.69,567.94,2,Não
+CLI-0814,Feminino,1,Não,Não,28,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,34.45,967.25,3,Não
+CLI-0815,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Transferência Automática,82.28,2229.13,2,Sim
+CLI-0816,Masculino,0,Não,Não,34,Não,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,61.48,2083.17,1,Não
+CLI-0817,Masculino,0,Sim,Sim,39,Sim,DSL,Não,Não,Anual,Não,Boleto Eletrônico,49.42,1940.71,0,Não
+CLI-0818,Masculino,1,Não,Não,70,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Bancário,25.38,1787.09,0,Não
+CLI-0819,Masculino,0,Não,Não,20,Sim,DSL,Não,Não,Anual,Não,Transferência Automática,46.02,920.86,3,Sim
+CLI-0820,Feminino,0,Não,Não,24,Não,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,71.35,1708.46,1,Não
+CLI-0821,Masculino,0,Sim,Sim,19,Sim,DSL,Não,Sim,Mensal,Não,Boleto Eletrônico,63.4,1199.94,0,Sim
+CLI-0822,Masculino,0,Sim,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,73.15,964.9,0,Sim
+CLI-0823,Feminino,0,Sim,Não,16,Sim,DSL,Sim,Não,Mensal,Sim,Cartão de Crédito,61.61,1000.11,0,Sim
+CLI-0824,Masculino,0,Não,Não,46,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,68.63,3174.05,2,Não
+CLI-0825,Masculino,0,Não,Não,39,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Bancário,87.9,3447.69,0,Não
+CLI-0826,Masculino,0,Sim,Não,32,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,46.98,1510.59,1,Não
+CLI-0827,Feminino,1,Não,Não,13,Sim,DSL,Não,Sim,Anual,Sim,Cartão de Crédito,60.32,802.8,4,Não
+CLI-0828,Masculino,0,Sim,Não,15,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,81.98,1234.94,3,Não
+CLI-0829,Feminino,0,Não,Não,14,Sim,DSL,Não,Não,Anual,Não,Boleto Bancário,43.73,620.27,3,Sim
+CLI-0830,Masculino,0,Não,Não,13,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,25.81,337.76,3,Sim
+CLI-0831,Masculino,0,Não,Não,55,Não,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,84.71,4651.5,1,Sim
+CLI-0832,Feminino,0,Sim,Não,1,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,55.41,72.56,5,Sim
+CLI-0833,Masculino,0,Sim,Não,22,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,50.6,1129.59,3,Sim
+CLI-0834,Feminino,0,Sim,Não,10,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,56.5,560.79,4,Não
+CLI-0835,Masculino,0,Sim,Não,8,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,81.06,649.23,3,Não
+CLI-0836,Feminino,0,Sim,Não,17,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,49.65,842.53,0,Não
+CLI-0837,Masculino,0,Sim,Sim,11,Sim,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,66.56,745.29,0,Sim
+CLI-0838,Feminino,0,Sim,Não,10,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,70.26,705.61,1,Sim
+CLI-0839,Feminino,0,Sim,Sim,8,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Bancário,99.61,787.35,4,Sim
+CLI-0840,Masculino,1,Sim,Não,45,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Eletrônico,32.4,1459.15,0,Não
+CLI-0841,Masculino,0,Não,Não,50,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,29.8,1507.41,1,Não
+CLI-0842,Masculino,0,Sim,Não,20,Não,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,56.93,1149.28,0,Não
+CLI-0843,Masculino,1,Não,Não,24,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,48.04,1151.5,2,Sim
+CLI-0844,Feminino,0,Não,Não,17,Sim,DSL,Sim,Sim,Mensal,Não,Boleto Eletrônico,82.5,1398.03,0,Não
+CLI-0845,Masculino,0,Não,Não,12,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,50.87,601.75,0,Não
+CLI-0846,Feminino,0,Sim,Não,13,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,92.92,1217.7,0,Sim
+CLI-0847,Masculino,0,Sim,Não,4,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,62.55,268.18,4,Sim
+CLI-0848,Feminino,0,Sim,Não,17,Sim,DSL,Sim,Não,Anual,Sim,Transferência Automática,55.3,954.82,0,Não
+CLI-0849,Masculino,0,Sim,Não,32,Sim,DSL,Não,Não,Anual,Sim,Cartão de Crédito,46.81,1514.3,1,Sim
+CLI-0850,Masculino,0,Sim,Sim,26,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,72.78,1911.9,0,Sim
+CLI-0851,Masculino,0,Não,Não,13,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,82.95,1075.73,4,Não
+CLI-0852,Masculino,0,Não,Não,10,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,79.5,809.99,0,Sim
+CLI-0853,Feminino,0,Não,Não,15,Não,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,89.75,1356.67,1,Não
+CLI-0854,Feminino,0,Não,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,24.74,611.75,2,Não
+CLI-0855,Feminino,1,Sim,Sim,30,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Transferência Automática,102.61,3079.19,1,Não
+CLI-0856,Masculino,0,Sim,Não,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,26.15,372.95,2,Não
+CLI-0857,Feminino,0,Sim,Não,2,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Transferência Automática,75.3,161.24,1,Sim
+CLI-0858,Feminino,0,Não,Não,29,Sim,Fibra Óptica,Sim,Sim,2 Anos,Não,Boleto Bancário,95.9,2775.58,5,Sim
+CLI-0859,Feminino,0,Não,Não,29,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,25.48,736.5,1,Não
+CLI-0860,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,69.89,978.45,2,Sim
+CLI-0861,Masculino,0,Não,Não,2,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,67.69,155.19,0,Sim
+CLI-0862,Masculino,0,Não,Não,3,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.27,73.8,0,Sim
+CLI-0863,Feminino,0,Sim,Sim,26,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,86.05,2237.53,0,Sim
+CLI-0864,Masculino,0,Não,Não,16,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Eletrônico,88.9,1417.97,0,Não
+CLI-0865,Feminino,0,Sim,Sim,22,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Eletrônico,62.79,1380.02,1,Não
+CLI-0866,Feminino,0,Sim,Sim,60,Sim,DSL,Não,Sim,2 Anos,Não,Boleto Bancário,57.81,3468.24,1,Não
+CLI-0867,Masculino,0,Não,Não,9,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,54.52,488.23,0,Sim
+CLI-0868,Feminino,0,Não,Não,25,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,64.78,1632.64,1,Não
+CLI-0869,Masculino,0,Não,Não,10,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,83.81,829.38,3,Sim
+CLI-0870,Masculino,0,Não,Não,5,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,71.82,360.54,1,Sim
+CLI-0871,Feminino,1,Sim,Sim,16,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,79.55,1291.46,0,Não
+CLI-0872,Masculino,0,Sim,Sim,32,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Bancário,79.34,2535.93,1,Sim
+CLI-0873,Masculino,0,Não,Não,49,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Cartão de Crédito,100.87,4956.84,1,Não
+CLI-0874,Feminino,0,Não,Não,11,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,33.54,377.96,2,Não
+CLI-0875,Masculino,0,Sim,Não,46,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Eletrônico,87.29,4020.0,0,Não
+CLI-0876,Masculino,0,Não,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,34.21,559.19,2,Não
+CLI-0877,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Cartão de Crédito,84.31,2283.23,1,Sim
+CLI-0878,Feminino,0,Sim,Não,17,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,67.56,1145.97,0,Sim
+CLI-0879,Masculino,1,Não,Não,15,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,26.7,401.96,2,Sim
+CLI-0880,Masculino,0,Sim,Não,6,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,94.9,573.71,1,Não
+CLI-0881,Masculino,0,Não,Não,12,Sim,Fibra Óptica,Não,Sim,Anual,Não,Transferência Automática,82.68,1003.84,0,Sim
+CLI-0882,Feminino,1,Sim,Não,25,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Transferência Automática,76.04,1903.02,1,Sim
+CLI-0883,Feminino,0,Sim,Não,4,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,23.41,85.34,0,Não
+CLI-0884,Feminino,0,Sim,Sim,5,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,84.51,424.42,1,Sim
+CLI-0885,Masculino,0,Sim,Sim,8,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,65.52,541.12,0,Sim
+CLI-0886,Masculino,0,Não,Não,6,Sim,DSL,Sim,Sim,Mensal,Não,Transferência Automática,83.47,502.6,0,Não
+CLI-0887,Masculino,0,Sim,Sim,71,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,64.48,4588.77,1,Sim
+CLI-0888,Feminino,0,Não,Não,1,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,82.49,94.09,6,Sim
+CLI-0889,Feminino,0,Não,Não,28,Sim,DSL,Não,Sim,Anual,Sim,Boleto Eletrônico,56.61,1575.09,3,Não
+CLI-0890,Feminino,0,Não,Não,20,Não,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,71.13,1423.78,0,Sim
+CLI-0891,Feminino,0,Não,Não,30,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,23.07,709.68,3,Não
+CLI-0892,Feminino,1,Sim,Não,29,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Eletrônico,62.2,1815.74,1,Sim
+CLI-0893,Feminino,0,Não,Não,1,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,79.21,77.66,0,Sim
+CLI-0894,Feminino,0,Não,Não,65,Não,DSL,Não,Não,2 Anos,Não,Boleto Eletrônico,50.54,3298.86,0,Sim
+CLI-0895,Masculino,0,Não,Não,12,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,86.03,1032.76,1,Não
+CLI-0896,Masculino,1,Não,Não,36,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,64.99,2340.4,3,Sim
+CLI-0897,Feminino,0,Sim,Não,23,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,74.86,1728.1,0,Não
+CLI-0898,Feminino,0,Não,Não,11,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,49.85,550.13,2,Não
+CLI-0899,Feminino,0,Não,Não,23,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,82.57,1892.34,2,Sim
+CLI-0900,Masculino,0,Sim,Não,27,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,102.41,2775.48,5,Sim
+CLI-0901,Masculino,0,Sim,Não,13,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Eletrônico,69.53,911.69,1,Sim
+CLI-0902,Masculino,0,Não,Não,16,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,50.27,824.16,2,Sim
+CLI-0903,Masculino,0,Sim,Sim,64,Sim,DSL,Não,Sim,2 Anos,Sim,Transferência Automática,69.76,4455.67,0,Não
+CLI-0904,Feminino,0,Sim,Não,17,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,68.03,1168.24,2,Sim
+CLI-0905,Masculino,0,Sim,Sim,37,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,82.29,3034.9,2,Não
+CLI-0906,Feminino,0,Não,Não,15,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.74,321.03,1,Sim
+CLI-0907,Masculino,1,Não,Não,16,Sim,Fibra Óptica,Não,Não,Anual,Não,Cartão de Crédito,61.0,968.62,1,Não
+CLI-0908,Feminino,0,Sim,Sim,19,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,68.36,1303.18,1,Sim
+CLI-0909,Feminino,0,Sim,Sim,35,Não,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Bancário,84.99,2982.22,0,Não
+CLI-0910,Masculino,0,Sim,Não,7,Não,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,72.06,498.8,3,Sim
+CLI-0911,Feminino,0,Sim,Não,21,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Eletrônico,96.48,2042.2,0,Não
+CLI-0912,Masculino,0,Sim,Não,20,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,49.53,987.84,2,Sim
+CLI-0913,Feminino,0,Sim,Não,12,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,73.76,884.22,4,Não
+CLI-0914,Masculino,0,Não,Não,47,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,29.08,1376.59,0,Não
+CLI-0915,Masculino,0,Sim,Sim,9,Sim,DSL,Sim,Não,Mensal,Sim,Cartão de Crédito,59.86,535.92,0,Sim
+CLI-0916,Masculino,0,Não,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,22.09,499.08,2,Não
+CLI-0917,Feminino,0,Sim,Sim,28,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,62.75,1766.42,1,Não
+CLI-0918,Masculino,0,Sim,Sim,4,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,34.76,129.14,4,Sim
+CLI-0919,Masculino,0,Não,Não,2,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,61.56,122.51,1,Não
+CLI-0920,Feminino,1,Sim,Sim,9,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,60.6,555.21,0,Sim
+CLI-0921,Masculino,0,Sim,Sim,46,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,25.3,1160.89,2,Não
+CLI-0922,Masculino,0,Sim,Não,24,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,32.14,765.1,0,Não
+CLI-0923,Feminino,0,Sim,Sim,22,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,43.2,943.41,1,Não
+CLI-0924,Masculino,0,Não,Não,25,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,27.37,697.94,0,Não
+CLI-0925,Masculino,0,Sim,Sim,48,Sim,DSL,Sim,Não,Anual,Sim,Cartão de Crédito,58.27,2797.56,3,Não
+CLI-0926,Masculino,0,Sim,Não,23,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,82.36,1906.01,1,Sim
+CLI-0927,Masculino,0,Não,Não,6,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,42.94,248.73,2,Sim
+CLI-0928,Feminino,1,Sim,Sim,9,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,88.74,795.53,0,Sim
+CLI-0929,Feminino,0,Sim,Sim,14,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Bancário,85.69,1191.68,1,Não
+CLI-0930,Masculino,0,Sim,Não,26,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,31.5,824.4,1,Sim
+CLI-0931,Masculino,1,Sim,Sim,33,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Boleto Eletrônico,91.65,3021.9,0,Não
+CLI-0932,Feminino,0,Não,Não,35,Sim,DSL,Não,Não,Anual,Não,Transferência Automática,49.71,1745.44,2,Não
+CLI-0933,Masculino,0,Não,Não,2,Sim,DSL,Não,Sim,Mensal,Sim,Cartão de Crédito,64.07,130.51,0,Não
+CLI-0934,Feminino,0,Sim,Sim,18,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Transferência Automática,93.41,1684.55,2,Não
+CLI-0935,Feminino,0,Não,Não,39,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,33.84,1318.62,4,Não
+CLI-0936,Masculino,1,Não,Não,17,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,61.02,1037.28,0,Sim
+CLI-0937,Masculino,1,Sim,Não,15,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,44.27,655.58,3,Sim
+CLI-0938,Masculino,0,Sim,Não,24,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,65.67,1585.9,0,Não
+CLI-0939,Feminino,1,Não,Não,8,Não,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,83.54,670.85,1,Não
+CLI-0940,Feminino,1,Sim,Sim,24,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,73.87,1777.68,3,Sim
+CLI-0941,Masculino,0,Não,Não,45,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,24.96,1133.15,3,Não
+CLI-0942,Feminino,0,Sim,Sim,17,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,34.87,584.33,0,Sim
+CLI-0943,Feminino,0,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,71.14,2065.64,0,Sim
+CLI-0944,Feminino,0,Sim,Sim,33,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,25.01,826.44,3,Não
+CLI-0945,Masculino,0,Não,Não,8,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Eletrônico,74.91,600.59,0,Não
+CLI-0946,Feminino,0,Não,Não,68,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,20.03,1357.37,2,Não
+CLI-0947,Masculino,0,Sim,Sim,45,Não,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Boleto Bancário,21.24,946.99,2,Não
+CLI-0948,Masculino,1,Não,Não,43,Não,DSL,Sim,Não,Anual,Não,Boleto Eletrônico,67.79,2909.69,1,Não
+CLI-0949,Masculino,1,Não,Não,40,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,85.58,3425.23,2,Não
+CLI-0950,Masculino,0,Não,Não,5,Não,Fibra Óptica,Não,Sim,Mensal,Não,Cartão de Crédito,89.97,443.63,2,Não
+CLI-0951,Feminino,0,Não,Não,30,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,28.28,856.03,3,Não
+CLI-0952,Masculino,1,Sim,Sim,27,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,84.87,2293.41,1,Não
+CLI-0953,Masculino,0,Sim,Sim,26,Sim,DSL,Não,Sim,Anual,Não,Cartão de Crédito,68.26,1771.96,4,Não
+CLI-0954,Masculino,1,Sim,Não,49,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,67.52,3304.81,1,Não
+CLI-0955,Feminino,0,Sim,Sim,45,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,26.85,1206.78,1,Não
+CLI-0956,Masculino,0,Sim,Não,38,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Cartão de Crédito,78.44,2997.85,0,Não
+CLI-0957,Feminino,0,Não,Não,1,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,32.04,30.25,0,Não
+CLI-0958,Masculino,0,Sim,Sim,44,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Boleto Bancário,104.84,4619.78,0,Não
+CLI-0959,Masculino,0,Não,Não,5,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Bancário,73.86,364.16,1,Não
+CLI-0960,Masculino,0,Sim,Sim,4,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Eletrônico,86.92,366.01,2,Sim
+CLI-0961,Masculino,0,Não,Não,27,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Boleto Eletrônico,102.1,2763.06,4,Não
+CLI-0962,Feminino,0,Sim,Sim,27,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,65.27,1762.5,0,Sim
+CLI-0963,Masculino,0,Sim,Não,19,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,84.86,1629.73,1,Não
+CLI-0964,Feminino,0,Sim,Sim,12,Não,DSL,Não,Não,Mensal,Sim,Transferência Automática,51.25,605.22,0,Não
+CLI-0965,Feminino,0,Não,Não,18,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Transferência Automática,87.53,1575.05,0,Não
+CLI-0966,Feminino,0,Sim,Não,33,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,34.72,1165.01,0,Não
+CLI-0967,Feminino,1,Não,Não,23,Não,Fibra Óptica,Não,Não,Mensal,Não,Cartão de Crédito,61.5,1407.9,0,Sim
+CLI-0968,Feminino,0,Sim,Sim,27,Sim,DSL,Não,Sim,Mensal,Não,Cartão de Crédito,65.69,1791.69,4,Não
+CLI-0969,Feminino,0,Sim,Sim,29,Sim,Fibra Óptica,Sim,Sim,2 Anos,Sim,Transferência Automática,104.23,3030.32,0,Não
+CLI-0970,Masculino,0,Não,Não,18,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Boleto Eletrônico,103.77,1878.88,1,Não
+CLI-0971,Feminino,0,Sim,Não,17,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,47.39,802.77,0,Não
+CLI-0972,Masculino,1,Não,Não,42,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Eletrônico,43.82,1848.6,1,Não
+CLI-0973,Masculino,0,Sim,Não,25,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,70.97,1784.77,0,Sim
+CLI-0974,Feminino,0,Sim,Não,4,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,76.85,308.46,2,Sim
+CLI-0975,Masculino,0,Sim,Sim,28,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,23.64,666.59,0,Não
+CLI-0976,Feminino,1,Sim,Não,7,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,22.11,153.15,1,Não
+CLI-0977,Feminino,0,Não,Não,8,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,60.86,481.69,0,Sim
+CLI-0978,Masculino,0,Sim,Sim,43,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,64.65,2782.06,0,Não
+CLI-0979,Feminino,0,Sim,Não,24,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,66.3,1591.44,0,Sim
+CLI-0980,Masculino,0,Não,Não,50,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,29.02,1457.92,1,Não
+CLI-0981,Masculino,1,Não,Não,25,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,75.25,1873.54,0,Não
+CLI-0982,Feminino,0,Sim,Sim,59,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Transferência Automática,76.45,4508.24,0,Não
+CLI-0983,Masculino,0,Sim,Sim,4,Não,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,74.07,293.52,1,Sim
+CLI-0984,Feminino,0,Não,Não,37,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Cartão de Crédito,21.5,800.61,0,Não
+CLI-0985,Masculino,0,Sim,Sim,21,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,58.51,1220.07,0,Sim
+CLI-0986,Feminino,0,Sim,Não,24,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,64.49,1558.36,3,Sim
+CLI-0987,Masculino,1,Não,Não,6,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,21.63,142.71,1,Sim
+CLI-0988,Feminino,0,Não,Não,34,Sim,DSL,Não,Sim,2 Anos,Não,Transferência Automática,61.74,2094.32,0,Não
+CLI-0989,Feminino,0,Sim,Sim,25,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,33.12,821.46,0,Não
+CLI-0990,Feminino,0,Não,Não,61,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,20.79,1263.58,0,Não
+CLI-0991,Feminino,0,Sim,Sim,9,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,62.36,576.38,2,Sim
+CLI-0992,Feminino,0,Sim,Sim,15,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Boleto Eletrônico,102.71,1531.55,2,Não
+CLI-0993,Feminino,1,Sim,Não,61,Não,DSL,Não,Não,2 Anos,Não,Boleto Eletrônico,46.58,2858.21,2,Não
+CLI-0994,Feminino,0,Não,Não,22,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,29.68,665.54,1,Sim
+CLI-0995,Masculino,0,Sim,Sim,42,Sim,DSL,Sim,Não,2 Anos,Sim,Boleto Eletrônico,62.61,2633.64,0,Não
+CLI-0996,Feminino,0,Não,Não,24,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,43.54,1039.44,6,Sim
+CLI-0997,Feminino,0,Sim,Não,2,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,63.61,135.28,1,Não
+CLI-0998,Feminino,0,Sim,Sim,26,Não,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,61.86,1615.03,0,Não
+CLI-0999,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,84.72,2543.59,0,Sim
+CLI-1000,Masculino,0,Não,Não,6,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Transferência Automática,31.35,182.02,0,Sim
+CLI-1001,Masculino,1,Sim,Não,21,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Bancário,72.99,1524.06,2,Sim
+CLI-1002,Feminino,0,Sim,Não,10,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Boleto Bancário,87.22,877.36,2,Sim
+CLI-1003,Feminino,0,Não,Não,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,20.92,115.25,6,Sim
+CLI-1004,Feminino,0,Sim,Não,36,Sim,Fibra Óptica,Sim,Não,2 Anos,Sim,Boleto Eletrônico,80.92,2909.78,0,Não
+CLI-1005,Masculino,0,Sim,Não,22,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Eletrônico,62.02,1373.76,3,Não
+CLI-1006,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,71.68,2162.01,0,Sim
+CLI-1007,Feminino,0,Sim,Não,14,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,63.67,892.7,0,Sim
+CLI-1008,Feminino,0,Não,Não,63,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Boleto Eletrônico,73.29,4609.56,3,Não
+CLI-1009,Masculino,1,Não,Não,13,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Boleto Bancário,104.95,1360.19,4,Sim
+CLI-1010,Feminino,1,Não,Não,11,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,72.86,800.28,4,Sim
+CLI-1011,Masculino,0,Não,Não,30,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Boleto Eletrônico,85.41,2555.8,4,Não
+CLI-1012,Feminino,0,Sim,Sim,20,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,20.41,402.82,4,Sim
+CLI-1013,Feminino,0,Não,Não,46,Não,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,61.63,2843.77,1,Não
+CLI-1014,Masculino,0,Sim,Sim,18,Não,DSL,Não,Sim,Mensal,Não,Boleto Bancário,59.48,1074.95,1,Sim
+CLI-1015,Masculino,0,Sim,Sim,38,Sim,Fibra Óptica,Não,Não,Anual,Sim,Cartão de Crédito,74.9,2853.63,0,Não
+CLI-1016,Feminino,0,Não,Não,61,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Transferência Automática,74.14,4525.16,3,Não
+CLI-1017,Masculino,1,Não,Não,26,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,79.96,2072.05,1,Não
+CLI-1018,Feminino,0,Sim,Sim,38,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,68.4,2617.33,6,Sim
+CLI-1019,Masculino,0,Não,Não,11,Sim,Fibra Óptica,Sim,Não,Anual,Não,Cartão de Crédito,89.92,985.96,2,Não
+CLI-1020,Masculino,0,Sim,Não,11,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,32.42,373.54,6,Não
+CLI-1021,Masculino,0,Sim,Sim,44,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,80.74,3553.91,4,Sim
+CLI-1022,Masculino,0,Sim,Não,19,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,24.71,469.6,0,Não
+CLI-1023,Masculino,0,Sim,Sim,29,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Eletrônico,72.49,2097.14,0,Não
+CLI-1024,Masculino,0,Não,Não,2,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,25.81,47.68,3,Sim
+CLI-1025,Feminino,1,Sim,Sim,21,Sim,Fibra Óptica,Não,Não,Mensal,Não,Boleto Bancário,64.82,1364.81,3,Não
+CLI-1026,Masculino,0,Sim,Não,9,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,26.61,247.46,2,Sim
+CLI-1027,Feminino,0,Não,Não,48,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,67.38,3243.0,4,Não
+CLI-1028,Feminino,0,Não,Não,30,Sim,DSL,Sim,Sim,Mensal,Não,Cartão de Crédito,73.04,2188.16,1,Não
+CLI-1029,Feminino,0,Não,Não,18,Sim,DSL,Sim,Não,Mensal,Sim,Boleto Bancário,68.61,1245.32,0,Sim
+CLI-1030,Masculino,0,Não,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Cartão de Crédito,25.64,405.95,0,Não
+CLI-1031,Feminino,0,Não,Não,28,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Bancário,59.13,1675.49,2,Não
+CLI-1032,Masculino,0,Sim,Não,71,Sim,DSL,Sim,Sim,2 Anos,Sim,Transferência Automática,70.21,4979.75,3,Não
+CLI-1033,Feminino,1,Sim,Sim,50,Sim,DSL,Não,Não,2 Anos,Sim,Transferência Automática,50.97,2556.69,3,Sim
+CLI-1034,Feminino,0,Sim,Não,50,Não,Fibra Óptica,Não,Não,2 Anos,Sim,Transferência Automática,60.34,3030.57,1,Não
+CLI-1035,Feminino,0,Sim,Sim,39,Sim,DSL,Não,Não,2 Anos,Sim,Boleto Bancário,40.23,1581.91,0,Não
+CLI-1036,Feminino,0,Não,Não,6,Não,Fibra Óptica,Não,Não,Mensal,Sim,Boleto Eletrônico,71.66,436.13,2,Sim
+CLI-1037,Feminino,0,Sim,Sim,30,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,31.32,958.25,0,Não
+CLI-1038,Masculino,0,Sim,Não,30,Não,Fibra Óptica,Sim,Não,Mensal,Sim,Cartão de Crédito,85.94,2588.07,1,Sim
+CLI-1039,Feminino,0,Não,Não,63,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Eletrônico,61.78,3898.51,2,Não
+CLI-1040,Masculino,0,Sim,Não,13,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,69.01,900.69,5,Sim
+CLI-1041,Masculino,0,Não,Não,5,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,52.68,278.51,1,Não
+CLI-1042,Masculino,0,Sim,Sim,21,Sim,Fibra Óptica,Não,Não,Mensal,Não,Transferência Automática,69.95,1484.98,1,Não
+CLI-1043,Masculino,0,Sim,Não,29,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,58.77,1722.36,0,Sim
+CLI-1044,Masculino,0,Sim,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,31.84,588.03,1,Não
+CLI-1045,Feminino,0,Sim,Sim,30,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,42.67,1298.45,1,Não
+CLI-1046,Feminino,0,Não,Não,28,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,45.49,1292.27,5,Não
+CLI-1047,Masculino,1,Não,Não,28,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,76.8,2160.66,4,Sim
+CLI-1048,Masculino,0,Sim,Sim,23,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,80.46,1852.42,1,Sim
+CLI-1049,Masculino,0,Sim,Não,29,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,61.46,1796.3,0,Não
+CLI-1050,Masculino,0,Sim,Não,16,Sim,DSL,Sim,Não,Anual,Sim,Boleto Eletrônico,57.66,924.05,2,Não
+CLI-1051,Feminino,0,Sim,Não,12,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,27.9,350.49,3,Não
+CLI-1052,Masculino,0,Não,Não,61,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,44.48,2708.31,1,Não
+CLI-1053,Masculino,0,Não,Não,37,Sim,DSL,Sim,Não,Anual,Sim,Boleto Eletrônico,64.2,2370.73,5,Não
+CLI-1054,Masculino,0,Sim,Sim,26,Não,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,25.59,662.23,0,Não
+CLI-1055,Feminino,0,Não,Não,1,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,46.39,58.53,0,Não
+CLI-1056,Masculino,0,Não,Não,28,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Cartão de Crédito,26.35,754.77,1,Sim
+CLI-1057,Feminino,1,Sim,Não,3,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Bancário,22.59,74.07,0,Sim
+CLI-1058,Feminino,0,Sim,Não,13,Sim,Fibra Óptica,Sim,Sim,Anual,Não,Transferência Automática,93.94,1216.02,0,Não
+CLI-1059,Masculino,0,Sim,Não,6,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,60.45,371.53,0,Sim
+CLI-1060,Feminino,0,Sim,Não,39,Sim,DSL,Sim,Sim,Anual,Não,Boleto Eletrônico,70.8,2777.27,1,Não
+CLI-1061,Masculino,0,Sim,Sim,23,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,53.89,1239.24,2,Não
+CLI-1062,Feminino,0,Não,Não,47,Não,Fibra Óptica,Não,Sim,Anual,Sim,Boleto Bancário,88.45,4156.9,2,Não
+CLI-1063,Feminino,0,Não,Não,4,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,43.28,187.37,1,Sim
+CLI-1064,Masculino,0,Não,Não,17,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,66.58,1127.46,0,Sim
+CLI-1065,Masculino,0,Não,Não,23,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Bancário,24.9,580.09,0,Sim
+CLI-1066,Feminino,1,Não,Não,26,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Transferência Automática,90.67,2370.25,1,Não
+CLI-1067,Masculino,0,Sim,Não,33,Sim,Fibra Óptica,Sim,Não,Anual,Não,Boleto Eletrônico,88.86,2946.34,0,Sim
+CLI-1068,Masculino,0,Não,Não,46,Sim,DSL,Sim,Sim,Anual,Sim,Boleto Eletrônico,82.53,3791.27,0,Não
+CLI-1069,Feminino,0,Não,Não,15,Sim,DSL,Não,Não,Anual,Sim,Boleto Eletrônico,42.89,651.71,1,Não
+CLI-1070,Feminino,0,Não,Não,4,Sim,Fibra Óptica,Sim,Sim,Mensal,Não,Transferência Automática,93.11,365.98,1,Não
+CLI-1071,Feminino,1,Sim,Sim,4,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Transferência Automática,81.7,338.49,4,Sim
+CLI-1072,Feminino,1,Sim,Sim,18,Não,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,64.52,1166.99,0,Sim
+CLI-1073,Feminino,0,Não,Não,18,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,28.65,515.5,1,Sim
+CLI-1074,Feminino,0,Não,Não,46,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Boleto Bancário,20.99,977.8,2,Não
+CLI-1075,Masculino,1,Não,Não,30,Sim,DSL,Sim,Sim,2 Anos,Sim,Transferência Automática,84.03,2527.39,0,Não
+CLI-1076,Feminino,0,Não,Não,71,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Bancário,66.34,4710.99,1,Não
+CLI-1077,Feminino,0,Sim,Sim,15,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,20.34,301.95,1,Não
+CLI-1078,Feminino,0,Não,Não,34,Sim,DSL,Não,Sim,2 Anos,Sim,Boleto Eletrônico,65.65,2230.66,0,Não
+CLI-1079,Masculino,0,Não,Não,29,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,51.68,1499.16,4,Sim
+CLI-1080,Feminino,1,Não,Não,1,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,47.71,38.87,1,Sim
+CLI-1081,Masculino,0,Sim,Sim,2,Sim,DSL,Não,Não,Mensal,Sim,Boleto Eletrônico,46.72,87.88,5,Sim
+CLI-1082,Masculino,1,Sim,Sim,2,Sim,Fibra Óptica,Sim,Sim,Mensal,Sim,Cartão de Crédito,103.05,206.93,1,Sim
+CLI-1083,Masculino,0,Sim,Sim,21,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Cartão de Crédito,30.15,636.55,1,Não
+CLI-1084,Feminino,0,Sim,Não,26,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,80.9,2118.1,1,Não
+CLI-1085,Masculino,1,Sim,Não,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,29.4,402.35,0,Não
+CLI-1086,Masculino,1,Não,Não,24,Sim,DSL,Não,Não,Mensal,Não,Cartão de Crédito,41.02,995.93,1,Sim
+CLI-1087,Feminino,0,Sim,Sim,42,Não,DSL,Não,Não,Anual,Não,Transferência Automática,47.45,2010.28,1,Não
+CLI-1088,Feminino,0,Não,Não,36,Sim,DSL,Sim,Não,Anual,Sim,Cartão de Crédito,60.73,2179.27,5,Sim
+CLI-1089,Masculino,0,Sim,Não,7,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,30.05,218.2,6,Sim
+CLI-1090,Feminino,1,Não,Não,14,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,22.09,305.69,3,Sim
+CLI-1091,Feminino,1,Não,Não,6,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,43.89,278.83,0,Sim
+CLI-1092,Masculino,0,Sim,Sim,1,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,53.92,59.17,5,Sim
+CLI-1093,Masculino,0,Sim,Sim,29,Sim,DSL,Não,Sim,Mensal,Sim,Boleto Eletrônico,69.74,2041.64,1,Sim
+CLI-1094,Feminino,0,Sim,Sim,22,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,32.63,719.27,0,Não
+CLI-1095,Feminino,0,Não,Não,47,Sim,Fibra Óptica,Não,Não,Anual,Não,Transferência Automática,67.57,3179.69,2,Sim
+CLI-1096,Feminino,0,Sim,Não,26,Não,DSL,Sim,Não,Mensal,Sim,Transferência Automática,62.42,1629.48,0,Não
+CLI-1097,Feminino,0,Não,Não,25,Sim,DSL,Não,Não,Mensal,Não,Transferência Automática,49.62,1235.95,2,Sim
+CLI-1098,Masculino,0,Sim,Não,51,Não,DSL,Sim,Sim,2 Anos,Sim,Boleto Bancário,70.17,3585.49,0,Não
+CLI-1099,Feminino,0,Não,Não,18,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,43.33,785.98,1,Não
+CLI-1100,Feminino,0,Não,Não,25,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Eletrônico,82.5,2055.18,1,Não
+CLI-1101,Feminino,0,Sim,Não,69,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Cartão de Crédito,60.01,4136.29,0,Não
+CLI-1102,Masculino,0,Sim,Não,9,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,61.43,562.38,0,Não
+CLI-1103,Masculino,0,Sim,Sim,14,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Boleto Eletrônico,86.3,1217.11,3,Sim
+CLI-1104,Feminino,1,Sim,Sim,28,Sim,DSL,Não,Não,Mensal,Não,Transferência Automática,53.79,1514.92,1,Não
+CLI-1105,Feminino,0,Não,Não,45,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,25.72,1156.77,0,Não
+CLI-1106,Masculino,0,Sim,Sim,48,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,65.42,3151.07,1,Sim
+CLI-1107,Feminino,0,Sim,Sim,45,Sim,Fibra Óptica,Sim,Não,Anual,Sim,Cartão de Crédito,85.64,3847.57,0,Não
+CLI-1108,Masculino,0,Sim,Sim,46,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,62.68,2882.08,2,Não
+CLI-1109,Masculino,0,Não,Não,26,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,64.72,1698.68,0,Não
+CLI-1110,Masculino,0,Não,Não,24,Sim,DSL,Não,Não,Anual,Sim,Transferência Automática,43.64,1060.83,3,Não
+CLI-1111,Feminino,0,Não,Não,13,Sim,DSL,Não,Não,Anual,Não,Transferência Automática,53.88,690.71,0,Sim
+CLI-1112,Feminino,1,Sim,Não,37,Sim,DSL,Não,Sim,Anual,Sim,Boleto Eletrônico,57.02,2109.22,0,Não
+CLI-1113,Feminino,1,Não,Não,17,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,20.09,358.66,1,Não
+CLI-1114,Masculino,0,Não,Não,32,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Cartão de Crédito,65.38,2110.08,1,Não
+CLI-1115,Masculino,0,Sim,Não,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,20.8,109.86,0,Sim
+CLI-1116,Masculino,0,Sim,Sim,27,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Bancário,79.65,2144.25,1,Não
+CLI-1117,Masculino,0,Não,Não,22,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Eletrônico,82.01,1816.41,0,Não
+CLI-1118,Feminino,0,Não,Não,18,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,49.31,902.05,4,Sim
+CLI-1119,Feminino,0,Não,Não,20,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,65.69,1308.89,1,Sim
+CLI-1120,Feminino,0,Sim,Não,8,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Cartão de Crédito,80.8,666.23,2,Sim
+CLI-1121,Feminino,0,Sim,Sim,10,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,32.95,343.14,2,Sim
+CLI-1122,Masculino,0,Sim,Não,6,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Cartão de Crédito,63.93,375.18,2,Sim
+CLI-1123,Feminino,0,Sim,Sim,30,Sim,DSL,Sim,Não,Anual,Não,Transferência Automática,62.54,1886.03,3,Não
+CLI-1124,Masculino,0,Sim,Não,48,Não,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Transferência Automática,24.72,1193.92,0,Não
+CLI-1125,Feminino,0,Sim,Sim,24,Sim,DSL,Não,Não,Mensal,Sim,Boleto Bancário,42.63,1017.09,1,Sim
+CLI-1126,Feminino,0,Sim,Sim,21,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,54.16,1144.36,2,Sim
+CLI-1127,Feminino,0,Sim,Sim,6,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,20.24,132.19,1,Sim
+CLI-1128,Feminino,0,Não,Não,17,Não,Fibra Óptica,Sim,Não,Anual,Não,Boleto Bancário,86.95,1476.81,3,Sim
+CLI-1129,Masculino,0,Sim,Não,40,Sim,DSL,Não,Não,Anual,Sim,Cartão de Crédito,42.07,1682.25,3,Não
+CLI-1130,Feminino,1,Sim,Sim,21,Não,Nenhum,Sem Internet,Sem Internet,Anual,Não,Transferência Automática,24.18,507.66,1,Não
+CLI-1131,Feminino,0,Sim,Sim,66,Sim,Fibra Óptica,Sim,Não,2 Anos,Não,Boleto Eletrônico,80.89,5339.87,2,Não
+CLI-1132,Feminino,0,Sim,Não,4,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,33.74,133.03,1,Sim
+CLI-1133,Feminino,0,Sim,Sim,18,Sim,DSL,Não,Não,Mensal,Sim,Transferência Automática,46.89,834.48,1,Não
+CLI-1134,Feminino,0,Não,Não,14,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Transferência Automática,81.8,1137.53,0,Não
+CLI-1135,Feminino,1,Sim,Sim,72,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,48.39,3500.26,5,Não
+CLI-1136,Feminino,0,Não,Não,28,Sim,Fibra Óptica,Não,Não,2 Anos,Sim,Boleto Eletrônico,61.77,1734.16,2,Sim
+CLI-1137,Masculino,0,Sim,Não,22,Sim,DSL,Sim,Sim,Mensal,Sim,Cartão de Crédito,80.69,1777.26,0,Sim
+CLI-1138,Masculino,0,Sim,Sim,40,Sim,Fibra Óptica,Não,Sim,2 Anos,Sim,Boleto Eletrônico,83.3,3342.43,0,Não
+CLI-1139,Feminino,1,Sim,Sim,55,Sim,DSL,Sim,Não,2 Anos,Não,Cartão de Crédito,55.95,3079.23,1,Não
+CLI-1140,Masculino,0,Sim,Sim,35,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Não,Cartão de Crédito,29.17,1037.57,0,Não
+CLI-1141,Feminino,0,Não,Não,25,Não,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Cartão de Crédito,21.09,545.5,0,Não
+CLI-1142,Masculino,0,Sim,Sim,10,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Boleto Eletrônico,33.29,326.18,0,Não
+CLI-1143,Feminino,0,Sim,Não,52,Não,DSL,Sim,Sim,2 Anos,Sim,Boleto Eletrônico,71.06,3698.03,0,Não
+CLI-1144,Feminino,0,Não,Não,30,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,67.83,2037.3,3,Sim
+CLI-1145,Feminino,0,Não,Não,31,Sim,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,47.72,1473.56,3,Sim
+CLI-1146,Feminino,1,Não,Não,12,Sim,DSL,Não,Não,Mensal,Sim,Cartão de Crédito,41.03,509.13,1,Não
+CLI-1147,Feminino,0,Sim,Sim,28,Sim,DSL,Sim,Não,Mensal,Não,Cartão de Crédito,57.91,1627.92,3,Não
+CLI-1148,Feminino,0,Sim,Sim,30,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Não,Boleto Eletrônico,34.54,1035.14,0,Sim
+CLI-1149,Masculino,0,Sim,Sim,11,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,77.74,869.88,4,Sim
+CLI-1150,Feminino,0,Não,Não,48,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Eletrônico,66.94,3218.35,0,Não
+CLI-1151,Masculino,0,Sim,Não,21,Não,DSL,Não,Sim,Mensal,Não,Boleto Eletrônico,67.26,1430.43,2,Não
+CLI-1152,Feminino,0,Sim,Sim,26,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Eletrônico,87.9,2298.19,0,Sim
+CLI-1153,Feminino,0,Sim,Não,26,Sim,DSL,Sim,Não,Mensal,Sim,Transferência Automática,64.26,1661.72,0,Sim
+CLI-1154,Feminino,0,Não,Não,13,Sim,DSL,Não,Não,Anual,Não,Boleto Eletrônico,40.42,522.38,0,Não
+CLI-1155,Masculino,0,Sim,Não,10,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,21.78,216.12,3,Sim
+CLI-1156,Masculino,1,Não,Não,16,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Cartão de Crédito,25.05,409.26,0,Não
+CLI-1157,Masculino,0,Não,Não,12,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,74.11,879.71,4,Não
+CLI-1158,Feminino,1,Não,Não,40,Sim,DSL,Não,Não,Anual,Sim,Boleto Bancário,47.51,1911.23,2,Não
+CLI-1159,Masculino,0,Não,Não,25,Não,DSL,Não,Não,2 Anos,Sim,Cartão de Crédito,42.36,1058.84,3,Sim
+CLI-1160,Feminino,0,Não,Não,29,Sim,Fibra Óptica,Não,Sim,Mensal,Não,Boleto Bancário,83.73,2437.0,0,Sim
+CLI-1161,Masculino,0,Sim,Sim,46,Não,Nenhum,Sem Internet,Sem Internet,Anual,Sim,Boleto Eletrônico,26.33,1221.48,1,Não
+CLI-1162,Masculino,0,Sim,Sim,31,Não,Fibra Óptica,Sim,Sim,2 Anos,Não,Transferência Automática,103.91,3219.66,0,Não
+CLI-1163,Masculino,0,Sim,Sim,47,Sim,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,87.65,4122.12,2,Não
+CLI-1164,Feminino,0,Não,Não,3,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,33.35,110.9,0,Não
+CLI-1165,Feminino,0,Sim,Sim,6,Não,DSL,Não,Sim,Mensal,Não,Transferência Automática,60.29,379.05,2,Não
+CLI-1166,Feminino,0,Sim,Não,12,Sim,DSL,Não,Não,Mensal,Não,Boleto Bancário,48.53,586.27,2,Sim
+CLI-1167,Feminino,0,Não,Não,54,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,29.06,1565.72,1,Não
+CLI-1168,Masculino,0,Não,Não,29,Sim,Fibra Óptica,Sim,Não,Mensal,Sim,Boleto Eletrônico,77.52,2260.7,0,Sim
+CLI-1169,Masculino,0,Sim,Sim,27,Sim,Fibra Óptica,Não,Sim,2 Anos,Não,Boleto Eletrônico,78.17,2104.54,0,Não
+CLI-1170,Masculino,0,Sim,Não,50,Sim,Fibra Óptica,Não,Não,Anual,Sim,Boleto Bancário,64.15,3218.93,0,Não
+CLI-1171,Masculino,0,Sim,Não,12,Sim,Fibra Óptica,Não,Sim,Mensal,Sim,Cartão de Crédito,76.4,916.86,1,Sim
+CLI-1172,Feminino,0,Sim,Não,15,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,21.44,327.72,2,Não
+CLI-1173,Feminino,0,Sim,Sim,20,Não,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,28.73,593.27,0,Não
+CLI-1174,Masculino,1,Não,Não,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,23.05,108.81,1,Sim
+CLI-1175,Masculino,0,Não,Não,49,Sim,DSL,Não,Não,2 Anos,Sim,Transferência Automática,50.51,2492.89,1,Não
+CLI-1176,Masculino,0,Não,Não,2,Sim,Fibra Óptica,Não,Não,Mensal,Sim,Transferência Automática,69.07,133.8,0,Sim
+CLI-1177,Masculino,0,Sim,Sim,5,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Transferência Automática,21.33,125.71,2,Não
+CLI-1178,Masculino,0,Não,Não,5,Sim,DSL,Não,Não,Mensal,Não,Boleto Eletrônico,40.59,215.0,2,Não
+CLI-1179,Feminino,0,Não,Não,69,Não,DSL,Não,Sim,2 Anos,Sim,Boleto Bancário,58.02,4003.55,2,Não
+CLI-1180,Masculino,0,Sim,Não,33,Sim,Fibra Óptica,Sim,Sim,Anual,Sim,Boleto Eletrônico,102.23,3387.86,2,Não
+CLI-1181,Masculino,0,Não,Não,41,Sim,DSL,Não,Não,2 Anos,Sim,Transferência Automática,48.46,1984.92,1,Não
+CLI-1182,Masculino,0,Não,Não,47,Sim,Fibra Óptica,Não,Não,2 Anos,Não,Transferência Automática,64.06,3012.42,5,Sim
+CLI-1183,Feminino,0,Sim,Sim,12,Não,DSL,Sim,Não,Mensal,Não,Boleto Eletrônico,67.58,819.51,3,Sim
+CLI-1184,Masculino,0,Não,Não,33,Sim,Fibra Óptica,Não,Sim,Anual,Sim,Cartão de Crédito,87.8,2894.59,0,Não
+CLI-1185,Feminino,0,Não,Não,27,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Bancário,34.3,935.62,2,Sim
+CLI-1186,Masculino,0,Não,Não,29,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Transferência Automática,26.79,779.29,0,Não
+CLI-1187,Feminino,1,Sim,Sim,12,Sim,Fibra Óptica,Sim,Não,Mensal,Não,Cartão de Crédito,83.23,991.53,0,Sim
+CLI-1188,Masculino,0,Sim,Sim,53,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,29.76,1587.64,0,Não
+CLI-1189,Feminino,0,Não,Não,19,Sim,Fibra Óptica,Não,Não,Anual,Sim,Transferência Automática,66.0,1253.72,0,Sim
+CLI-1190,Feminino,0,Sim,Não,32,Sim,Nenhum,Sem Internet,Sem Internet,Anual,Não,Cartão de Crédito,33.99,1079.57,0,Não
+CLI-1191,Feminino,1,Sim,Sim,18,Não,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,62.92,1135.32,5,Não
+CLI-1192,Feminino,0,Sim,Não,21,Sim,DSL,Sim,Sim,Mensal,Sim,Boleto Bancário,71.82,1509.56,1,Não
+CLI-1193,Feminino,0,Sim,Não,41,Sim,Fibra Óptica,Não,Não,Anual,Não,Boleto Bancário,65.28,2693.28,4,Sim
+CLI-1194,Feminino,0,Não,Não,20,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,60.45,1213.21,2,Sim
+CLI-1195,Feminino,0,Sim,Não,54,Sim,Nenhum,Sem Internet,Sem Internet,2 Anos,Sim,Transferência Automática,28.27,1530.35,1,Não
+CLI-1196,Feminino,0,Sim,Não,2,Não,DSL,Sim,Sim,Mensal,Não,Boleto Bancário,79.67,177.9,3,Sim
+CLI-1197,Feminino,0,Não,Não,50,Sim,DSL,Sim,Não,Anual,Sim,Cartão de Crédito,66.69,3338.85,0,Não
+CLI-1198,Feminino,0,Sim,Sim,23,Sim,DSL,Não,Sim,Mensal,Não,Boleto Bancário,69.96,1609.46,2,Não
+CLI-1199,Feminino,0,Não,Não,13,Sim,Nenhum,Sem Internet,Sem Internet,Mensal,Sim,Boleto Eletrônico,34.89,453.7,4,Sim
+CLI-1200,Masculino,0,Sim,Sim,44,Não,Fibra Óptica,Não,Sim,Anual,Não,Boleto Bancário,87.42,3836.67,3,Não
