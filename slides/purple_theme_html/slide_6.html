@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 100px 120px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 8px 20px;
+    border-radius: 9999px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+    max-width: 1200px;
+  }
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 80px;
+    align-items: center;
+  }
+  .deliverables-box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .item-card {
+    background: #331163;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 22px;
+    padding: 24px 30px;
+    box-shadow: 0 15px 35px rgba(40, 10, 82, 0.35);
+  }
+  .item-card h4 {
+    font-size: 22px;
+    font-weight: 800;
+    color: #FFFFFF;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .item-card p {
+    font-size: 17px;
+    color: #E9D5FF;
+    line-height: 1.4;
+  }
+  .repo-link-box {
+    background: #280a52;
+    border-radius: 18px;
+    padding: 18px 24px;
+    font-size: 18px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: 10px;
+  }
+  .repo-link-box span { color: #FFC800; font-weight: 700; }
+
+  /* Smartphone Frame with QR */
+  .phone-mockup {
+    width: 380px;
+    height: 640px;
+    background: #1c0a3d;
+    border-radius: 48px;
+    border: 10px solid #331463;
+    box-shadow: 0 35px 70px -15px rgba(20, 5, 50, 0.7);
+    margin: 0 auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .notch {
+    width: 120px;
+    height: 24px;
+    background: #0f0422;
+    border-radius: 12px;
+  }
+  .qr-wrapper {
+    background: #FFFFFF;
+    padding: 16px;
+    border-radius: 24px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  }
+  .qr-img {
+    width: 210px;
+    height: 210px;
+    display: block;
+  }
+  .phone-info {
+    text-align: center;
+  }
+  .phone-info h5 {
+    font-size: 18px;
+    font-weight: 800;
+    color: #FFFFFF;
+    margin-bottom: 6px;
+  }
+  .phone-info p {
+    font-size: 13px;
+    color: #DDD6FE;
+  }
+</style>
+</head>
+<body>
+  <div class="top-pill">Entrega Obrigatória & Avaliação</div>
+  <h2 class="slide-title">Código Aberto, Governança Total e Retorno Imediato</h2>
+
+  <div class="content-grid">
+    <div class="deliverables-box">
+      <div class="item-card">
+        <h4>📁 Workflow KNIME Executável</h4>
+        <p>Arquivo <code>churn_prediction_sad.knwf</code> com pipeline completa, visualizações e regras de negócio.</p>
+      </div>
+      <div class="item-card">
+        <h4>📊 Base de Dados & Dicionário</h4>
+        <p>1.200 contratos higienizados em CSV e documentação de metadados das variáveis preditivas.</p>
+      </div>
+      <div class="item-card">
+        <h4>📑 100% de Cobertura do Barema</h4>
+        <p>Atendimento integral aos requisitos técnicos, práticos e temporais da disciplina de SAD (UFS).</p>
+      </div>
+      <div class="repo-link-box">
+        <span>🔗 GitHub:</span>
+        <code>github.com/BrennoPh/ProjetoBI-KNIME-SAD</code>
+      </div>
+    </div>
+
+    <div class="phone-mockup">
+      <div class="notch"></div>
+      <div class="qr-wrapper">
+        <img class="qr-img" src="../purple_theme_images/qrcode_github.png" alt="QR Code GitHub">
+      </div>
+      <div class="phone-info">
+        <h5>Acesse o Repositório</h5>
+        <p>Aponte a câmera para inspecionar o workflow, os dados e a documentação completa.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

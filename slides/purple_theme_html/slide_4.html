@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 100px 120px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 8px 20px;
+    border-radius: 9999px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 70px;
+    max-width: 1250px;
+  }
+  .steps-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 28px;
+    margin-bottom: 50px;
+  }
+  .step-card {
+    background: #331163;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 28px;
+    padding: 36px 28px;
+    box-shadow: 0 20px 45px rgba(40, 10, 82, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 480px;
+    position: relative;
+  }
+  .step-num {
+    font-size: 48px;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 0.25);
+    line-height: 1;
+    margin-bottom: 16px;
+  }
+  .step-node-badge {
+    background: #FFC800;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 4px 10px;
+    border-radius: 6px;
+    align-self: flex-start;
+    margin-bottom: 16px;
+  }
+  .step-title {
+    font-size: 26px;
+    font-weight: 800;
+    color: #FFFFFF;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+  .step-desc {
+    font-size: 16px;
+    color: #E9D5FF;
+    line-height: 1.45;
+  }
+  .step-metric {
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    padding-top: 16px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #FFFFFF;
+  }
+  .footer-summary {
+    background: #280a52;
+    padding: 18px 36px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer-summary b { color: #FFC800; }
+</style>
+</head>
+<body>
+  <div class="top-pill">Esteira Operacional no KNIME</div>
+  <h2 class="slide-title">Pipeline End-to-End: Do Dado Bruto à Ação Prescritiva</h2>
+
+  <div class="steps-grid">
+    <div class="step-card">
+      <div>
+        <div class="step-num">01</div>
+        <div class="step-node-badge">CSV Reader + Missing</div>
+        <h3 class="step-title">Ingestão & Limpeza</h3>
+        <p class="step-desc">Tratamento de 1.200 contratos de clientes, eliminação de valores nulos e tipagem de variáveis.</p>
+      </div>
+      <div class="step-metric">📦 1.200 Linhas Processadas</div>
+    </div>
+
+    <div class="step-card">
+      <div>
+        <div class="step-num">02</div>
+        <div class="step-node-badge">Partitioning Node</div>
+        <h3 class="step-title">Divisão 70 / 30</h3>
+        <p class="step-desc">Particionamento estratificado para garantir proporção equilibrada de cancelamentos no treino e teste.</p>
+      </div>
+      <div class="step-metric">⚖️ 840 Treino • 360 Teste</div>
+    </div>
+
+    <div class="step-card">
+      <div>
+        <div class="step-num">03</div>
+        <div class="step-node-badge">Decision Tree + Scorer</div>
+        <h3 class="step-title">Árvore de Decisão</h3>
+        <p class="step-desc">Treinamento de modelo preditivo transparente com cálculo de matriz de confusão e acurácia.</p>
+      </div>
+      <div class="step-metric">🎯 87.2% de Acurácia</div>
+    </div>
+
+    <div class="step-card">
+      <div>
+        <div class="step-num">04</div>
+        <div class="step-node-badge">Rule Engine + View</div>
+        <h3 class="step-title">Ação Prescritiva</h3>
+        <p class="step-desc">Geração de regras de negócio automatizadas para retenção prioritária de clientes de alto risco.</p>
+      </div>
+      <div class="step-metric">🚀 R$ 22.400 / mês Preservados</div>
+    </div>
+  </div>
+
+  <div class="footer-summary">
+    <span>Pipeline Executável: <b>churn_prediction_sad.knwf</b></span>
+    <span>Sem dependências externas • Execução local reproduzível</span>
+  </div>
+</body>
+</html>

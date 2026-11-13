@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 100px 120px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 8px 20px;
+    border-radius: 9999px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 70px;
+    max-width: 1200px;
+  }
+  .pillars-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    margin-bottom: 50px;
+  }
+  .pillar-card {
+    background: #331163;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 32px;
+    padding: 48px 36px;
+    box-shadow: 0 20px 45px rgba(40, 10, 82, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 480px;
+  }
+  .pillar-top {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .pillar-badge {
+    align-self: flex-start;
+    background: rgba(255, 255, 255, 0.12);
+    color: #FFC800;
+    font-size: 14px;
+    font-weight: 800;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .pillar-heading {
+    font-size: 32px;
+    font-weight: 800;
+    color: #FFFFFF;
+    letter-spacing: -0.5px;
+    line-height: 1.15;
+  }
+  .pillar-desc {
+    font-size: 19px;
+    color: #E9D5FF;
+    line-height: 1.45;
+  }
+  .pillar-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+  }
+  .bottom-badge {
+    background: #280a52;
+    padding: 16px 32px;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    font-size: 18px;
+    color: #FFFFFF;
+  }
+  .bottom-badge strong {
+    color: #FFC800;
+  }
+</style>
+</head>
+<body>
+  <div class="top-pill">Arquitetura & Vantagens Competitivas</div>
+  <h2 class="slide-title">KNIME Reduz o Custo Analítico em 80% sem Lock-in</h2>
+
+  <div class="pillars-container">
+    <div class="pillar-card">
+      <div class="pillar-top">
+        <div class="pillar-badge">Low-Code Visual</div>
+        <h3 class="pillar-heading">Automação Sem Código Frágil</h3>
+        <p class="pillar-desc">Fluxos modulares e intuitivos que unificam ETL e Machine Learning sem demandar scripts complexos.</p>
+      </div>
+      <div class="pillar-footer">⚡ 4x mais rápido no deploy analítico</div>
+    </div>
+
+    <div class="pillar-card">
+      <div class="pillar-top">
+        <div class="pillar-badge">Stack Híbrida</div>
+        <h3 class="pillar-heading">Python, R e SQL Nativos</h3>
+        <p class="pillar-desc">Conexão transparente com bancos corporativos, bibliotecas de Data Science e APIs REST sem barreiras.</p>
+      </div>
+      <div class="pillar-footer">🔗 Interoperabilidade sem dependência</div>
+    </div>
+
+    <div class="pillar-card">
+      <div class="pillar-top">
+        <div class="pillar-badge">Governança</div>
+        <h3 class="pillar-heading">Auditabilidade & Custo Zero</h3>
+        <p class="pillar-desc">Workflows 100% versionáveis e abertos, garantindo conformidade com a LGPD e eliminando licenças proprietárias.</p>
+      </div>
+      <div class="pillar-footer">🛡️ Zero custo de licença anual</div>
+    </div>
+  </div>
+
+  <div class="bottom-badge">
+    <span>💡</span>
+    <span>Validação no Caso SAD: <strong>87.2% de Acurácia</strong> obtida com a Árvore de Decisão no conjunto de teste.</span>
+  </div>
+</body>
+</html>

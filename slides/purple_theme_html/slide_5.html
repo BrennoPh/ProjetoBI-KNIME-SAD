@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 100px 120px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 8px 20px;
+    border-radius: 9999px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 70px;
+    max-width: 1200px;
+  }
+  .split-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin-bottom: 50px;
+  }
+  .split-card {
+    border-radius: 32px;
+    padding: 48px;
+    box-shadow: 0 20px 45px rgba(40, 10, 82, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px;
+  }
+  .card-reactive {
+    background: #331163;
+    border: 1px solid rgba(239, 68, 68, 0.4);
+  }
+  .card-predictive {
+    background: #23084a;
+    border: 2px solid #FFC800;
+  }
+  .badge-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 18px;
+    border-radius: 9999px;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+  .badge-reactive {
+    background: rgba(239, 68, 68, 0.2);
+    color: #FCA5A5;
+  }
+  .badge-predictive {
+    background: rgba(255, 200, 0, 0.2);
+    color: #FFC800;
+  }
+  .split-card h3 {
+    font-size: 34px;
+    font-weight: 800;
+    color: #FFFFFF;
+    line-height: 1.15;
+    margin-bottom: 28px;
+  }
+  .bullet-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .bullet-item {
+    font-size: 19px;
+    color: #E9D5FF;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .bullet-item strong {
+    color: #FFFFFF;
+  }
+  .split-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    padding-top: 24px;
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .split-footer.danger { color: #FCA5A5; }
+  .split-footer.success { color: #34D399; }
+</style>
+</head>
+<body>
+  <div class="top-pill">Impacto no Apoio à Decisão</div>
+  <h2 class="slide-title">Da Operação Cega à Retenção Prescritiva</h2>
+
+  <div class="split-grid">
+    <div class="split-card card-reactive">
+      <div>
+        <div class="badge-tag badge-reactive">Abordagem Tradicional</div>
+        <h3>Reativa e Descentralizada</h3>
+        <div class="bullet-list">
+          <div class="bullet-item">❌ <strong>Ação Tardia:</strong> Contato após o pedido de cancelamento.</div>
+          <div class="bullet-item">❌ <strong>Desconto Genérico:</strong> Corrói a margem sem reter o assinante.</div>
+          <div class="bullet-item">❌ <strong>Decisão sem Dados:</strong> Perda sem rastreabilidade de causa raiz.</div>
+        </div>
+      </div>
+      <div class="split-footer danger">Perda contínua de R$ 28.000 / mês</div>
+    </div>
+
+    <div class="split-card card-predictive">
+      <div>
+        <div class="badge-tag badge-predictive">Com KNIME Analytics</div>
+        <h3>Preditiva e Prescritiva</h3>
+        <div class="bullet-list">
+          <div class="bullet-item">✅ <strong>Antecipação:</strong> Detecção do risco 15 dias antes da evasão.</div>
+          <div class="bullet-item">✅ <strong>Oferta Direcionada:</strong> Regras automáticas por perfil de uso.</div>
+          <div class="bullet-item">✅ <strong>Decisão Auditável:</strong> Árvore de decisão clara e justificável.</div>
+        </div>
+      </div>
+      <div class="split-footer success">Economia líquida de R$ 22.400 / mês</div>
+    </div>
+  </div>
+</body>
+</html>
