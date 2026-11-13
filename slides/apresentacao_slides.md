@@ -16,7 +16,7 @@
   * Gabriel Lima Dantas
   * Paulo Henrique dos Santos Reis
 * **Link em Destaque:** Repositório no GitHub: `https://github.com/BrennoPh/ProjetoBI-KNIME-SAD`  
-* **Apresentação no Canva:** [https://www.canva.com/d/O4h71eK448uyfP-](https://www.canva.com/d/O4h71eK448uyfP-)
+* **Apresentação no Canva:** [https://www.canva.com/d/0e9RTsJ5KfAL7Ln](https://www.canva.com/d/0e9RTsJ5KfAL7Ln)
 * **Apresentador:** Brenno Phelipe (0:00 - 0:30)
 
 ---
@@ -110,7 +110,7 @@
 * **Repositório GitHub Aberto:**
   * Código-fonte, workflow `.knwf`, dataset e documentação completa:
   * `https://github.com/BrennoPh/ProjetoBI-KNIME-SAD`  
-  * Canva: [https://www.canva.com/d/O4h71eK448uyfP-](https://www.canva.com/d/O4h71eK448uyfP-)
+  * Canva: [https://www.canva.com/d/0e9RTsJ5KfAL7Ln](https://www.canva.com/d/0e9RTsJ5KfAL7Ln)
 * **Principais Referências:**
   * Documentação Oficial do KNIME (<https://docs.knime.com/>).
   * Turban, E. et al. *Business Intelligence, Analytics, and Data Science: A Managerial Perspective*.
