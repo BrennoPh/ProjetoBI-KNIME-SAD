@@ -1,0 +1,246 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #0d131f;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #f1f5f9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 60px 80px;
+    position: relative;
+}
+/* Subtle background gradient and glow */
+body::before {
+    content: '';
+    position: absolute;
+    top: -200px;
+    right: -200px;
+    width: 700px;
+    height: 700px;
+    background: radial-gradient(circle, rgba(255,170,0,0.12) 0%, rgba(255,170,0,0) 70%);
+    pointer-events: none;
+}
+body::after {
+    content: '';
+    position: absolute;
+    bottom: -200px;
+    left: -200px;
+    width: 700px;
+    height: 700px;
+    background: radial-gradient(circle, rgba(56,189,248,0.08) 0%, rgba(56,189,248,0) 70%);
+    pointer-events: none;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    z-index: 2;
+}
+.kicker {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: #ffaa00;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.kicker::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #ffaa00;
+    border-radius: 50%;
+}
+.title {
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #ffffff;
+    max-width: 1200px;
+}
+.subtitle {
+    font-size: 20px;
+    color: #94a3b8;
+    margin-top: 8px;
+    font-weight: 400;
+}
+.badge {
+    background: rgba(255, 170, 0, 0.15);
+    border: 1px solid rgba(255, 170, 0, 0.4);
+    color: #ffc247;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    white-space: nowrap;
+}
+.content {
+    flex: 1;
+    display: flex;
+    gap: 32px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    z-index: 2;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    color: #64748b;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding-top: 20px;
+    z-index: 2;
+}
+.card {
+    background: rgba(26, 35, 50, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(12px);
+    border-radius: 20px;
+    padding: 36px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    position: relative;
+    overflow: hidden;
+}
+.card.highlight {
+    border: 1px solid rgba(255, 170, 0, 0.35);
+    background: linear-gradient(180deg, rgba(35, 46, 66, 0.9) 0%, rgba(22, 30, 44, 0.9) 100%);
+}
+.card-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: rgba(255, 170, 0, 0.15);
+    color: #ffaa00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.card-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+.card-text {
+    font-size: 17px;
+    line-height: 1.6;
+    color: #cbd5e1;
+    flex: 1;
+}
+.card-text ul {
+    list-style: none;
+}
+.card-text li {
+    margin-bottom: 14px;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+.card-text li::before {
+    content: '→';
+    color: #ffaa00;
+    font-weight: bold;
+}
+.stat-box {
+    background: rgba(15, 23, 42, 0.6);
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.05);
+}
+.stat-num {
+    font-size: 38px;
+    font-weight: 800;
+    color: #ffaa00;
+    line-height: 1;
+    margin-bottom: 6px;
+}
+.stat-label {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #94a3b8;
+}
+
+.dash-layout {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 30px;
+    align-items: center;
+    flex: 1;
+}
+.dash-img {
+    width: 100%;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+.feature-pill {
+    background: rgba(26, 35, 50, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin-bottom: 14px;
+}
+.feature-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffaa00;
+    margin-bottom: 4px;
+}
+.feature-desc {
+    font-size: 14px;
+    color: #cbd5e1;
+    line-height: 1.4;
+}
+</style></head><body>
+<div class="header">
+    <div>
+        <div class="kicker">Parte 2 · Exemplo Prático &amp; Interface Executiva</div>
+        <h2 class="title">Dashboard Interativo &amp; Componente de Decisão</h2>
+        <div class="subtitle">Interface executiva gerada nativamente no KNIME através de componentes interativos em JavaScript</div>
+    </div>
+    <div class="badge">👤 Gabriel Lima · ⏱️ 5:15 - 5:45</div>
+</div>
+<div class="content">
+    <div class="dash-layout">
+        <img class="dash-img" src="../dashboard/dashboard_preview.png" alt="Dashboard Preview">
+        <div>
+            <div class="feature-pill">
+                <div class="feature-title">📊 Visualização Nativa em JavaScript (D3.js)</div>
+                <div class="feature-desc">Componente interativo dispensa servidores externos e permite análise de gráficos dinâmicos de barras e tabelas diretamente no navegador.</div>
+            </div>
+            <div class="feature-pill">
+                <div class="feature-title">🔍 Interatividade Bidirecional (Brushing &amp; Linking)</div>
+                <div class="feature-desc">Ao clicar em um segmento crítico no gráfico, a tabela filtra instantaneamente a lista de clientes sob risco imediato de evasão.</div>
+            </div>
+            <div class="feature-pill">
+                <div class="feature-title">⚡ Suporte Executivo Descomplicado</div>
+                <div class="feature-desc">A diretoria e analistas interagem com o painel gerencial consolidado, sem precisar compreender a complexidade técnica dos nós.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <span>Sistemas de Apoio à Decisão · Grupo 12</span>
+    <span>Slide 6 / 8</span>
+</div>
+</body></html>
