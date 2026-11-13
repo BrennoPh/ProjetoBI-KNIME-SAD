@@ -2,8 +2,10 @@
 > **Atividade:** 02-(U2) - Apresentação de Ferramentas de BI e Análise de Dados  
 > **Disciplina:** Sistemas de Apoio à Decisão (SAD) — Universidade Federal de Sergipe (UFS)  
 > **Tema:** Grupo 12 — KNIME Analytics Platform ([https://www.knime.com/knime-analytics-platform](https://www.knime.com/knime-analytics-platform))  
-> **Apresentação no Canva:** [https://www.canva.com/d/0e9RTsJ5KfAL7Ln](https://www.canva.com/d/0e9RTsJ5KfAL7Ln)  
-> **Repositório GitHub:** [https://github.com/BrennoPh/ProjetoBI-KNIME-SAD](https://github.com/BrennoPh/ProjetoBI-KNIME-SAD)
+> **Apresentação no Canva (Visualização):** [https://www.canva.com/d/NXSoceQpJ8U-T38](https://www.canva.com/d/NXSoceQpJ8U-T38)  
+> **Apresentação no Canva (Edição):** [https://www.canva.com/d/F-h3-ycpaeoWgos](https://www.canva.com/d/F-h3-ycpaeoWgos)  
+> **Repositório GitHub:** [https://github.com/BrennoPh/ProjetoBI-KNIME-SAD](https://github.com/BrennoPh/ProjetoBI-KNIME-SAD)  
+> **Slides em PDF (Download):** [slides/Apresentacao_KNIME_SAD_Final.pdf](slides/Apresentacao_KNIME_SAD_Final.pdf)
 
 ---
 
