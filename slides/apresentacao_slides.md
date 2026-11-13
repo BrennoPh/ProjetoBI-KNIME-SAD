@@ -15,7 +15,8 @@
   * David Santos Silvino
   * Gabriel Lima Dantas
   * Paulo Henrique dos Santos Reis
-* **Link em Destaque:** Repositório no GitHub: `https://github.com/[seu-usuario]/ProjetoBI-KNIME-SAD` *(ou QR Code no canto inferior)*
+* **Link em Destaque:** Repositório no GitHub: `https://github.com/BrennoPh/ProjetoBI-KNIME-SAD`  
+* **Apresentação no Canva:** [https://www.canva.com/d/O4h71eK448uyfP-](https://www.canva.com/d/O4h71eK448uyfP-)
 * **Apresentador:** Brenno Phelipe (0:00 - 0:30)
 
 ---
@@ -108,7 +109,8 @@
   * O KNIME comprova ser uma solução madura, ágil e robusta para suportar decisões gerenciais complexas, unindo dados brutos a estratégias de alto retorno sobre investimento.
 * **Repositório GitHub Aberto:**
   * Código-fonte, workflow `.knwf`, dataset e documentação completa:
-  * `https://github.com/[seu-usuario]/ProjetoBI-KNIME-SAD`
+  * `https://github.com/BrennoPh/ProjetoBI-KNIME-SAD`  
+  * Canva: [https://www.canva.com/d/O4h71eK448uyfP-](https://www.canva.com/d/O4h71eK448uyfP-)
 * **Principais Referências:**
   * Documentação Oficial do KNIME (<https://docs.knime.com/>).
   * Turban, E. et al. *Business Intelligence, Analytics, and Data Science: A Managerial Perspective*.
