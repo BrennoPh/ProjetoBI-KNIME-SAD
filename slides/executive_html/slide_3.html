@@ -1,0 +1,158 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #0f172a;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 80px 100px;
+    position: relative;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.kicker {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #d97706; /* Warm Amber */
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.kicker::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #d97706;
+    border-radius: 50%;
+}
+.action-title {
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+    max-width: 1350px;
+}
+.pill {
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    color: #475569;
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+.content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #94a3b8;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 24px;
+}
+
+.linear-process {
+    display: flex;
+    gap: 24px;
+    width: 100%;
+}
+.process-step {
+    flex: 1;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 36px 30px;
+    position: relative;
+    transition: transform 0.2s;
+}
+.step-num {
+    font-size: 32px;
+    font-weight: 800;
+    color: #d97706;
+    margin-bottom: 14px;
+    line-height: 1;
+}
+.step-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 12px;
+}
+.step-desc {
+    font-size: 15px;
+    color: #64748b;
+    line-height: 1.5;
+}
+.step-node {
+    margin-top: 18px;
+    display: inline-block;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #1e293b;
+}
+</style></head><body>
+<div class="header">
+    <div>
+        <div class="kicker">Parte 2 · Exemplo Prático</div>
+        <h2 class="action-title">Do Dado Bruto à Decisão: Pipeline Preditivo em 4 Fases</h2>
+    </div>
+    <div class="pill">3:45 - 5:15</div>
+</div>
+<div class="content">
+    <div class="linear-process">
+        <div class="process-step">
+            <div class="step-num">01</div>
+            <div class="step-title">Ingestão &amp; Limpeza</div>
+            <div class="step-desc">Carrega 1.200 clientes e higieniza inconsistências em variáveis operacionais.</div>
+            <span class="step-node">CSV Reader · Missing Value</span>
+        </div>
+        <div class="process-step">
+            <div class="step-num">02</div>
+            <div class="step-title">Partição Estratificada</div>
+            <div class="step-desc">Separa dados cegos para validação matemática rigorosa e sem vazamento.</div>
+            <span class="step-node">Partitioning (70% / 30%)</span>
+        </div>
+        <div class="process-step" style="background:#fffbeb; border-color:#fde68a;">
+            <div class="step-num">03</div>
+            <div class="step-title">Árvore de Decisão</div>
+            <div class="step-desc">Extrai regras de negócio lógicas e auditáveis utilizando o índice Gini.</div>
+            <span class="step-node">Decision Tree Learner</span>
+        </div>
+        <div class="process-step">
+            <div class="step-num">04</div>
+            <div class="step-title">Apoio à Decisão</div>
+            <div class="step-desc">Segmenta faixas de risco e aciona o painel gerencial interativo.</div>
+            <span class="step-node">Rule Engine · Interactive View</span>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <span>Workflow Executável: churn_prediction_sad.knwf</span>
+    <span>Slide 3 / 6</span>
+</div>
+</body></html>

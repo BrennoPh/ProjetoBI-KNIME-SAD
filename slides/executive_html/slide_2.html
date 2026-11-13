@@ -1,0 +1,155 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #0f172a;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 80px 100px;
+    position: relative;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.kicker {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #d97706; /* Warm Amber */
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.kicker::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #d97706;
+    border-radius: 50%;
+}
+.action-title {
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+    max-width: 1350px;
+}
+.pill {
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    color: #475569;
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+.content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #94a3b8;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 24px;
+}
+
+.split-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    width: 100%;
+    height: 100%;
+}
+.split-col {
+    border-radius: 20px;
+    padding: 50px 44px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.col-legacy {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+}
+.col-knime {
+    background: #fffbeb;
+    border: 1.5px solid #fef3c7;
+    box-shadow: 0 10px 30px rgba(217, 119, 6, 0.06);
+}
+.col-label {
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 16px;
+}
+.col-legacy .col-label { color: #94a3b8; }
+.col-knime .col-label { color: #d97706; }
+.col-heading {
+    font-size: 32px;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 24px;
+    line-height: 1.2;
+}
+.item {
+    font-size: 17px;
+    color: #475569;
+    line-height: 1.5;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+.col-legacy .item::before { content: '✕'; color: #ef4444; font-weight: 800; }
+.col-knime .item::before { content: '✓'; color: #10b981; font-weight: 800; }
+</style></head><body>
+<div class="header">
+    <div>
+        <div class="kicker">Parte 1 · Quebra de Paradigma</div>
+        <h2 class="action-title">De Silos Isolados para um Pipeline Unificado em Nós</h2>
+    </div>
+    <div class="pill">0:30 - 3:00</div>
+</div>
+<div class="content">
+    <div class="split-grid">
+        <div class="split-col col-legacy">
+            <div class="col-label">Cenário Tradicional / Fragmentado</div>
+            <div class="col-heading">Silos e Barreiras de Código</div>
+            <div class="item">Scripts dispersos em linguagens isoladas e planilhas vulneráveis a erro humano.</div>
+            <div class="item">Caixas-pretas analíticas inacessíveis para tomadores de decisão corporativos.</div>
+            <div class="item">Processos manuais e lentos de extração, limpeza e carga de dados (ETL).</div>
+        </div>
+        <div class="split-col col-knime">
+            <div class="col-label">A Solução KNIME Analytics Platform</div>
+            <div class="col-heading">Pipeline Visual com Rastreabilidade</div>
+            <div class="item">Nós modulares com semáforos intuitivos de execução em tempo real (🔴🟡🟢).</div>
+            <div class="item">Interoperabilidade nativa para embutir Python, R e consultas SQL corporativas.</div>
+            <div class="item">Governança total: o fluxo visual documenta o raciocínio analítico por si só.</div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <span>Sistemas de Apoio à Decisão · Grupo 12</span>
+    <span>Slide 2 / 6</span>
+</div>
+</body></html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #0f172a;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 80px 100px;
+    position: relative;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.kicker {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #d97706; /* Warm Amber */
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.kicker::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #d97706;
+    border-radius: 50%;
+}
+.action-title {
+    font-size: 46px;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+    max-width: 1350px;
+}
+.pill {
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    color: #475569;
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+.content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #94a3b8;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 24px;
+}
+
+.hero-layout {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 80px;
+    align-items: center;
+    width: 100%;
+}
+.stat-mega {
+    font-size: 150px;
+    font-weight: 900;
+    line-height: 0.9;
+    color: #ef4444; /* Alert Coral */
+    letter-spacing: -6px;
+    margin-bottom: 16px;
+}
+.stat-sub {
+    font-size: 26px;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.3;
+}
+.findings-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.finding-card {
+    background: #f8fafc;
+    border-left: 4px solid #ef4444;
+    padding: 22px 26px;
+    border-radius: 0 14px 14px 0;
+}
+.finding-title {
+    font-size: 18px;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 6px;
+}
+.finding-desc {
+    font-size: 16px;
+    color: #475569;
+    line-height: 1.4;
+}
+</style></head><body>
+<div class="header">
+    <div>
+        <div class="kicker">Parte 3 · Diagnóstico Analítico</div>
+        <h2 class="action-title">Contratos Mensais e SAC Concentram 57.9% das Evasões</h2>
+    </div>
+    <div class="pill">5:45 - 6:30</div>
+</div>
+<div class="content">
+    <div class="hero-layout">
+        <div>
+            <div class="stat-mega">57.9%</div>
+            <div class="stat-sub">Taxa de evasão concentrada em contratos mensais sem fidelização.</div>
+        </div>
+        <div class="findings-container">
+            <div class="finding-card">
+                <div class="finding-title">Ponto de Ruptura Operacional (SAC)</div>
+                <div class="finding-desc">Clientes com 0 a 2 chamadas mantêm churn de 36%. Ao atingir <strong>≥ 3 chamadas, a evasão dispara para 63.8%</strong>.</div>
+            </div>
+            <div class="finding-card" style="border-color: #f59e0b;">
+                <div class="finding-title">Vulnerabilidade de Suporte Técnico</div>
+                <div class="finding-desc">Contas sem suporte técnico perdem <strong>52.7%</strong> dos clientes, contra apenas 30.2% de perda quando o serviço está ativo.</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <span>Base Analisada: 1.200 clientes telecom · Churn Global: 41.8%</span>
+    <span>Slide 4 / 6</span>
+</div>
+</body></html>
