@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 480px;
+    height: 920px;
+    background: transparent;
+    overflow: hidden;
+    padding: 20px;
+  }
+  .phone-back {
+    width: 440px;
+    height: 870px;
+    background: #180933;
+    border-radius: 54px;
+    border: 11px solid #2a1154;
+    box-shadow: 0 35px 70px -15px rgba(20, 5, 50, 0.75);
+    overflow: hidden;
+    padding: 26px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .notch {
+    width: 140px;
+    height: 26px;
+    background: #0f0422;
+    border-radius: 14px;
+    margin: 0 auto 20px auto;
+  }
+  .app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .app-title { font-size: 22px; font-weight: 800; color: #FFFFFF; }
+  .app-tag {
+    background: #FFC800;
+    color: #000;
+    font-size: 13px;
+    font-weight: 900;
+    padding: 5px 12px;
+    border-radius: 8px;
+  }
+  .mini-node {
+    background: rgba(46, 16, 101, 0.75);
+    border-left: 6px solid #FFC800;
+    padding: 16px 20px;
+    border-radius: 16px;
+    font-size: 16px;
+  }
+  .mini-node b { color: #FFFFFF; display: block; font-size: 18px; margin-bottom: 4px; }
+  .mini-node span { color: #DDD6FE; font-size: 15px; }
+</style>
+</head>
+<body>
+  <div class="phone-back">
+    <div class="notch"></div>
+    <div class="app-header">
+      <span class="app-title">Pipeline KNIME</span>
+      <span class="app-tag">WORKFLOW</span>
+    </div>
+    <div class="mini-node"><b>CSV Reader</b><span>1.200 Contratos Telecom</span></div>
+    <div class="mini-node"><b>Partitioning Node</b><span>Divisão Estratificada 70/30</span></div>
+    <div class="mini-node"><b>Decision Tree Learner</b><span>Treino Supervisionado</span></div>
+    <div class="mini-node"><b>Scorer & Metrics</b><span>Acurácia de 87.2%</span></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 530px;
+    height: 900px;
+    background: transparent;
+    overflow: hidden;
+    padding: 20px;
+  }
+  .phone-mockup {
+    width: 490px;
+    height: 860px;
+    background: #1c0a3d;
+    border-radius: 56px;
+    border: 12px solid #331463;
+    box-shadow: 0 40px 80px -15px rgba(20, 5, 50, 0.85);
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+  }
+  .notch {
+    width: 140px;
+    height: 28px;
+    background: #0f0422;
+    border-radius: 14px;
+    margin: 0 auto 14px auto;
+  }
+  .alert-banner {
+    background: #EF4444;
+    color: #FFFFFF;
+    padding: 20px 24px;
+    border-radius: 22px;
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .alert-body {
+    background: rgba(255, 255, 255, 0.09);
+    border-radius: 24px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .alert-body h4 { font-size: 24px; font-weight: 800; color: #FFFFFF; }
+  .alert-body p { font-size: 18px; color: #DDD6FE; line-height: 1.45; }
+  .action-btn {
+    background: #FFFFFF;
+    color: #1c0a3d;
+    padding: 22px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: auto;
+  }
+</style>
+</head>
+<body>
+  <div class="phone-mockup">
+    <div class="notch"></div>
+    <div class="alert-banner">
+      <span style="font-size: 24px;">🚨</span> ALERTA DE EVASÃO
+    </div>
+    <div class="alert-body">
+      <h4>Segmento Pré-Pago & Fibra</h4>
+      <p>Modelo preditivo detectou alta propensão de cancelamento antes do fim do ciclo.</p>
+      <p><strong>Impacto:</strong> 318 assinantes em zona de saída imediata.</p>
+    </div>
+    <div class="action-btn">Acionar Retenção Prescritiva</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 60px 80px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 10px 24px;
+    border-radius: 9999px;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 45px;
+    max-width: 1400px;
+  }
+  .deliverables-box {
+    width: 1060px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+  }
+  .item-card {
+    background: #331163;
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    border-radius: 28px;
+    padding: 30px 38px;
+    box-shadow: 0 20px 45px rgba(40, 10, 82, 0.4);
+  }
+  .item-card h4 {
+    font-size: 26px;
+    font-weight: 900;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+  }
+  .item-card p {
+    font-size: 20px;
+    color: #E9D5FF;
+    line-height: 1.45;
+  }
+  .repo-link-box {
+    background: #280a52;
+    border-radius: 22px;
+    padding: 22px 32px;
+    font-size: 22px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 10px;
+  }
+  .repo-link-box span { color: #FFC800; font-weight: 900; }
+</style>
+</head>
+<body>
+  <div class="top-pill">Entrega Obrigatória & Avaliação</div>
+  <h2 class="slide-title">Código Aberto, Governança Total e Retorno Imediato</h2>
+
+  <div class="deliverables-box">
+    <div class="item-card">
+      <h4>📁 Workflow KNIME Executável</h4>
+      <p>Arquivo <code>churn_prediction_sad.knwf</code> com pipeline completa, visualizações e regras de negócio.</p>
+    </div>
+    <div class="item-card">
+      <h4>📊 Base de Dados & Dicionário</h4>
+      <p>1.200 contratos higienizados em CSV e documentação de metadados das variáveis preditivas.</p>
+    </div>
+    <div class="item-card">
+      <h4>📑 100% de Cobertura do Barema</h4>
+      <p>Atendimento integral aos requisitos técnicos, práticos e temporais da disciplina de SAD (UFS).</p>
+    </div>
+    <div class="repo-link-box">
+      <span>🔗 GitHub:</span>
+      <code>github.com/BrennoPh/ProjetoBI-KNIME-SAD</code>
+    </div>
+  </div>
+</body>
+</html>
