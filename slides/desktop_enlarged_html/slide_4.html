@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 50px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .header-box {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .top-pill {
+    align-self: flex-start;
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 10px 24px;
+    border-radius: 9999px;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .slide-title {
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    color: #FFFFFF;
+  }
+  .steps-bar {
+    display: flex;
+    gap: 16px;
+    margin: 10px 0;
+  }
+  .step-pill {
+    background: #280a52;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    padding: 14px 22px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #FFFFFF;
+    flex: 1;
+    text-align: center;
+  }
+  .step-pill b { color: #FFC800; }
+  
+  /* Desktop Application Window */
+  .desktop-window {
+    background: #1e0b38;
+    border: 3px solid rgba(255, 255, 255, 0.25);
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: 0 30px 70px rgba(20, 5, 50, 0.65);
+    display: flex;
+    flex-direction: column;
+  }
+  .window-header {
+    background: #140529;
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  }
+  .window-dot { width: 16px; height: 16px; border-radius: 50%; }
+  .dot-red { background: #EF4444; }
+  .dot-yellow { background: #F59E0B; }
+  .dot-green { background: #10B981; }
+  .window-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #DDD6FE;
+    margin-left: 12px;
+  }
+  .window-body {
+    background: #FFFFFF;
+    height: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  .window-body img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: #FFFFFF;
+  }
+  .footer-summary {
+    background: #280a52;
+    padding: 18px 36px;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: 800;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer-summary b { color: #FFC800; }
+</style>
+</head>
+<body>
+  <div class="header-box">
+    <div class="top-pill">Arquitetura Prática do Workflow</div>
+    <h2 class="slide-title">Pipeline no KNIME: Do Dado à Prescrição</h2>
+  </div>
+
+  <div class="steps-bar">
+    <div class="step-pill"><b>01.</b> Ingestão (CSV Reader)</div>
+    <div class="step-pill"><b>02.</b> Partição 70/30</div>
+    <div class="step-pill"><b>03.</b> Árvore de Decisão</div>
+    <div class="step-pill"><b>04.</b> Ação Prescritiva</div>
+  </div>
+
+  <div class="desktop-window">
+    <div class="window-header">
+      <div class="window-dot dot-red"></div>
+      <div class="window-dot dot-yellow"></div>
+      <div class="window-dot dot-green"></div>
+      <span class="window-title">KNIME Analytics Platform — Workflow Executável (churn_prediction_sad.knwf)</span>
+    </div>
+    <div class="window-body">
+      <img src="workflow_architecture.png" alt="KNIME Workflow Real">
+    </div>
+  </div>
+
+  <div class="footer-summary">
+    <span>Workflow Executável: <b>churn_prediction_sad.knwf</b></span>
+    <span>87.2% de Acurácia Validada • Execução 100% Local e Auditável</span>
+  </div>
+</body>
+</html>

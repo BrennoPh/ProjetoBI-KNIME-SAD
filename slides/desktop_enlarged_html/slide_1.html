@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 60px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .main-grid {
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 50px;
+    align-items: center;
+  }
+  .left-content {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+  }
+  .top-pill {
+    align-self: flex-start;
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 12px 28px;
+    border-radius: 9999px;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .main-title {
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 0.95;
+    letter-spacing: -3px;
+    color: #FFFFFF;
+  }
+  .subtitle {
+    font-size: 34px;
+    font-weight: 600;
+    color: #F3E8FF;
+    line-height: 1.35;
+  }
+  .badge-tag {
+    align-self: flex-start;
+    background: #280a52;
+    color: #FFFFFF;
+    padding: 16px 36px;
+    border-radius: 9999px;
+    font-size: 22px;
+    font-weight: 800;
+    box-shadow: 0 15px 35px rgba(40, 10, 82, 0.5);
+  }
+  .badge-tag span { color: #FFC800; }
+  
+  /* Desktop Application Window on Right */
+  .desktop-window {
+    background: #1e0b38;
+    border: 3px solid rgba(255, 255, 255, 0.25);
+    border-radius: 32px;
+    overflow: hidden;
+    box-shadow: 0 35px 80px rgba(20, 5, 50, 0.7);
+    display: flex;
+    flex-direction: column;
+    height: 640px;
+  }
+  .window-header {
+    background: #140529;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  }
+  .window-dot { width: 16px; height: 16px; border-radius: 50%; }
+  .dot-red { background: #EF4444; }
+  .dot-yellow { background: #F59E0B; }
+  .dot-green { background: #10B981; }
+  .window-title { font-size: 18px; font-weight: 700; color: #DDD6FE; margin-left: 12px; }
+  .window-body {
+    background: #0f172a;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .window-body img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .bottom-card {
+    background: #331163;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 26px;
+    padding: 24px 38px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .team-names {
+    font-size: 24px;
+    font-weight: 800;
+    color: #FFFFFF;
+  }
+  .team-names span { color: #E9D5FF; font-weight: 600; }
+  .inst-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: #DDD6FE;
+  }
+</style>
+</head>
+<body>
+  <div class="main-grid">
+    <div class="left-content">
+      <div class="top-pill">Sistemas de Apoio à Decisão • UFS</div>
+      <h1 class="main-title">KNIME<br>Analytics</h1>
+      <p class="subtitle">Automação Analítica e Predição de Churn em Telecomunicações</p>
+      <div class="badge-tag">Case Prático: <span>Predição & Retenção de Churn (1.200 Contratos)</span></div>
+    </div>
+
+    <div class="desktop-window">
+      <div class="window-header">
+        <div class="window-dot dot-red"></div>
+        <div class="window-dot dot-yellow"></div>
+        <div class="window-dot dot-green"></div>
+        <span class="window-title">Painel de Decisão em Produção — KNIME SAD</span>
+      </div>
+      <div class="window-body">
+        <img src="dashboard_preview.png" alt="KNIME Live Dashboard">
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-card">
+    <div class="team-names">Equipe Técnica: <span>Brenno Phelipe • David Santos • Gabriel Lima • Paulo Henrique</span></div>
+    <div class="inst-name">UFS • DSI / SAD 2026</div>
+  </div>
+</body>
+</html>

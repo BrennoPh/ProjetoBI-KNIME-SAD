@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 60px 80px;
+  }
+  .top-pill {
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 12px 28px;
+    border-radius: 9999px;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .slide-title {
+    font-size: 68px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    color: #FFFFFF;
+    margin-bottom: 45px;
+    max-width: 1600px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 0.95fr 1.05fr;
+    gap: 45px;
+    align-items: stretch;
+  }
+  .hero-metric-box {
+    background: #331163;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    border-radius: 40px;
+    padding: 50px 40px;
+    box-shadow: 0 25px 60px rgba(40, 10, 82, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 640px;
+  }
+  .metric-number {
+    font-size: 190px;
+    font-weight: 900;
+    line-height: 0.85;
+    letter-spacing: -6px;
+    color: #FFFFFF;
+  }
+  .metric-label {
+    font-size: 34px;
+    font-weight: 700;
+    color: #DDD6FE;
+    margin-top: 24px;
+  }
+  .metric-sub {
+    font-size: 26px;
+    font-weight: 800;
+    color: #FFC800;
+    margin-top: 12px;
+  }
+  .cards-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 640px;
+    gap: 20px;
+  }
+  .card-item {
+    background: #331163;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 30px;
+    padding: 34px 40px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex: 1;
+    box-shadow: 0 15px 35px rgba(40, 10, 82, 0.35);
+  }
+  .card-dot {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #EF4444;
+    flex-shrink: 0;
+  }
+  .card-text {
+    font-size: 28px;
+    color: #FFFFFF;
+    line-height: 1.35;
+  }
+  .card-text strong { color: #FFFFFF; font-weight: 900; }
+</style>
+</head>
+<body>
+  <div class="top-pill">Diagnóstico Crítico do Negócio</div>
+  <h2 class="slide-title">26.5% de Churn Reduz a Margem Operacional</h2>
+
+  <div class="grid-container">
+    <div class="hero-metric-box">
+      <div class="metric-number">26.5%</div>
+      <div class="metric-label">Taxa Semestral de Evasão na Base</div>
+      <div class="metric-sub">318 Clientes Perdidos sem Intervenção</div>
+    </div>
+
+    <div class="cards-column">
+      <div class="card-item">
+        <div class="card-dot"></div>
+        <div class="card-text"><strong>R$ 28.000 / mês:</strong> Perda direta de faturamento recorrente na base.</div>
+      </div>
+      <div class="card-item">
+        <div class="card-dot" style="background: #F59E0B;"></div>
+        <div class="card-text"><strong>318 Contas Críticas:</strong> Concentradas no plano mensal sem fibra ótica.</div>
+      </div>
+      <div class="card-item">
+        <div class="card-dot" style="background: #E9D5FF;"></div>
+        <div class="card-text"><strong>Decisão Tardia:</strong> Ações manuais reativas perdem mais de 82% dos clientes.</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

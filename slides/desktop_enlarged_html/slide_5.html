@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  body {
+    width: 1920px;
+    height: 1080px;
+    background: #895bf6;
+    overflow: hidden;
+    position: relative;
+    color: #FFFFFF;
+    padding: 50px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .header-box {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .top-pill {
+    align-self: flex-start;
+    display: inline-flex;
+    align-items: center;
+    background: #331163;
+    color: #E9D5FF;
+    padding: 10px 24px;
+    border-radius: 9999px;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .slide-title {
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    color: #FFFFFF;
+  }
+  .main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: stretch;
+  }
+  
+  /* Desktop Dashboard Preview */
+  .desktop-window {
+    background: #1e0b38;
+    border: 3px solid rgba(255, 255, 255, 0.25);
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: 0 30px 70px rgba(20, 5, 50, 0.65);
+    display: flex;
+    flex-direction: column;
+    height: 680px;
+  }
+  .window-header {
+    background: #140529;
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  }
+  .window-dot { width: 16px; height: 16px; border-radius: 50%; }
+  .dot-red { background: #EF4444; }
+  .dot-yellow { background: #F59E0B; }
+  .dot-green { background: #10B981; }
+  .window-title { font-size: 18px; font-weight: 700; color: #DDD6FE; margin-left: 12px; }
+  .window-body {
+    background: #0f172a;
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .window-body img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Comparison Side */
+  .cards-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 680px;
+    gap: 24px;
+  }
+  .comp-card {
+    border-radius: 28px;
+    padding: 36px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+    box-shadow: 0 20px 45px rgba(40, 10, 82, 0.4);
+  }
+  .card-reactive {
+    background: #331163;
+    border: 3px solid rgba(239, 68, 68, 0.5);
+  }
+  .card-predictive {
+    background: #23084a;
+    border: 3px solid #FFC800;
+  }
+  .comp-badge {
+    align-self: flex-start;
+    padding: 8px 18px;
+    border-radius: 9999px;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .comp-badge.danger { background: rgba(239, 68, 68, 0.25); color: #FCA5A5; }
+  .comp-badge.success { background: rgba(255, 200, 0, 0.25); color: #FFC800; }
+  .comp-title {
+    font-size: 34px;
+    font-weight: 900;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+  }
+  .comp-points {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .comp-point {
+    font-size: 24px;
+    color: #E9D5FF;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    line-height: 1.35;
+  }
+  .comp-point strong { color: #FFFFFF; }
+  .comp-footer {
+    border-top: 2px solid rgba(255, 255, 255, 0.15);
+    padding-top: 16px;
+    font-size: 26px;
+    font-weight: 900;
+  }
+  .comp-footer.danger { color: #FCA5A5; }
+  .comp-footer.success { color: #34D399; }
+</style>
+</head>
+<body>
+  <div class="header-box">
+    <div class="top-pill">Painel Interativo de Suporte à Decisão (SAD)</div>
+    <h2 class="slide-title">Do Modelo Reativo à Retenção Prescritiva</h2>
+  </div>
+
+  <div class="main-grid">
+    <div class="desktop-window">
+      <div class="window-header">
+        <div class="window-dot dot-red"></div>
+        <div class="window-dot dot-yellow"></div>
+        <div class="window-dot dot-green"></div>
+        <span class="window-title">Dashboard Gerencial Interativo — Retenção em Telecom</span>
+      </div>
+      <div class="window-body">
+        <img src="dashboard_preview.png" alt="KNIME Dashboard Real">
+      </div>
+    </div>
+
+    <div class="cards-column">
+      <div class="comp-card card-reactive">
+        <div>
+          <div class="comp-badge danger">Abordagem Tradicional</div>
+          <h3 class="comp-title">Reativa e Tardia</h3>
+          <div class="comp-points">
+            <div class="comp-point">❌ <strong>Ação Tardia:</strong> Contato após pedido de cancelamento.</div>
+            <div class="comp-point">❌ <strong>Desconto Genérico:</strong> Corrói a margem e retém pouco.</div>
+          </div>
+        </div>
+        <div class="comp-footer danger">Perda contínua de R$ 28.000 / mês</div>
+      </div>
+
+      <div class="comp-card card-predictive">
+        <div>
+          <div class="comp-badge success">Com KNIME Analytics</div>
+          <h3 class="comp-title">Preditiva e Prescritiva</h3>
+          <div class="comp-points">
+            <div class="comp-point">✅ <strong>Antecipação:</strong> Alerta automático 15 dias antes da evasão.</div>
+            <div class="comp-point">✅ <strong>Regras Automatizadas:</strong> Oferta personalizada por propensão.</div>
+          </div>
+        </div>
+        <div class="comp-footer success">Economia líquida de R$ 22.400 / mês</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
